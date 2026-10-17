@@ -1,0 +1,1001 @@
+age,gender,department,education,years_experience,salary,performance_score,satisfaction_score,work_life_balance,monthly_hours,num_projects,distance_from_home,attrition
+50,Male,HR,High School,27,101732.0,3,3.0,Excellent,146.0,4,20.0,0
+36,Female,HR,Master,11,67955.0,4,3.0,Good,116.0,1,11.0,0
+29,Male,Sales,Master,6,54796.0,3,3.0,Fair,206.0,4,15.0,0
+42,Female,Operations,Bachelor,19,,5,4.0,Good,138.0,3,5.0,0
+40,Female,Finance,PhD,18,84908.0,5,3.0,Excellent,190.0,7,377.0,0
+44,Male,HR,High School,22,89058.0,3,4.0,Excellent,204.0,2,17.0,0
+32,Female,Sales,Master,9,55022.0,1,3.0,Fair,184.0,5,8.0,0
+32,Male,Sales,Bachelor,8,51691.0,5,3.0,Good,180.0,5,12.0,0
+45,Male,IT,Bachelor,23,96423.0,5,1.0,Poor,185.0,1,19.0,0
+57,Male,Finance,Master,36,124676.0,2,1.0,Poor,195.0,1,3.0,0
+45,Male,IT,Bachelor,24,223424.0,4,2.0,Good,189.0,5,1.0,1
+24,Female,HR,Bachelor,0,22074.0,3,3.0,Good,144.0,1,,0
+43,Male,Finance,Bachelor,24,97921.0,3,5.0,Excellent,220.0,2,1.0,0
+23,Male,Sales,Master,0,43398.0,5,4.0,Fair,176.0,3,18.0,0
+45,Male,Finance,High School,21,92052.0,3,3.0,Poor,187.0,3,16.0,0
+51,Female,Sales,Bachelor,26,86070.0,5,3.0,Good,192.0,4,26.0,0
+59,Male,Operations,PhD,36,158456.0,3,2.0,Poor,203.0,2,13.0,1
+23,Female,IT,Master,1,41069.0,4,3.0,Poor,201.0,7,1.0,0
+42,Male,Sales,Bachelor,21,87913.0,3,3.0,Fair,178.0,1,4.0,0
+54,Female,IT,Master,34,136555.0,4,3.0,Good,176.0,1,,0
+33,Female,IT,Master,9,57662.0,4,2.0,Fair,185.0,7,3.0,0
+43,Female,Finance,Master,23,104105.0,3,2.0,Good,202.0,4,15.0,0
+46,Female,Finance,Bachelor,25,86328.0,4,1.0,Poor,147.0,4,19.0,0
+48,Male,HR,Bachelor,29,113675.0,3,2.0,Fair,191.0,1,5.0,0
+49,Female,Sales,Bachelor,30,98918.0,2,4.0,Good,152.0,1,5.0,0
+37,Male,Sales,Bachelor,17,72808.0,4,3.0,Fair,221.0,7,,0
+36,Male,Sales,Bachelor,14,67448.0,3,3.0,Good,184.0,2,24.0,0
+24,Male,HR,High School,1,38774.0,4,4.0,Poor,164.0,7,4.0,0
+58,Female,Operations,Master,36,145747.0,4,5.0,Good,185.0,4,,1
+28,Male,IT,Bachelor,8,46384.0,4,5.0,Fair,175.0,7,11.0,0
+42,Female,Sales,Bachelor,20,89109.0,2,4.0,Fair,170.0,7,59.0,0
+30,Female,HR,Master,9,78262.0,3,1.0,Good,129.0,7,2.0,0
+39,Female,Finance,Bachelor,15,68825.0,3,4.0,Excellent,149.0,2,,0
+25,Female,Finance,High School,3,33098.0,4,4.0,Poor,171.0,6,22.0,1
+46,Female,Operations,Master,25,88659.0,4,1.0,Good,132.0,1,25.0,0
+35,Female,IT,High School,11,72566.0,4,4.0,Good,160.0,5,8.0,0
+30,Female,Sales,Master,11,65544.0,2,5.0,Good,,7,263.0,0
+47,Female,Operations,Master,24,91989.0,3,3.0,Excellent,155.0,5,25.0,0
+23,Female,Finance,Bachelor,3,26633.0,3,1.0,Fair,194.0,6,1.0,0
+41,Female,IT,Master,22,86974.0,2,1.0,Excellent,152.0,1,11.0,0
+49,Male,Finance,Bachelor,26,102357.0,3,3.0,Good,177.0,4,24.0,0
+28,Male,Finance,Bachelor,9,60962.0,3,2.0,Fair,166.0,5,7.0,1
+29,Male,HR,High School,4,45216.0,3,,Excellent,172.0,4,5.0,0
+56,Male,Finance,Bachelor,37,123558.0,2,4.0,Good,215.0,5,20.0,1
+35,Female,IT,PhD,14,75035.0,1,2.0,Good,179.0,4,5.0,0
+38,Female,HR,Bachelor,14,59160.0,2,5.0,Good,184.0,7,1.0,0
+57,Female,HR,Bachelor,38,116147.0,3,3.0,Good,155.0,5,355.0,0
+25,Male,Finance,Bachelor,3,42082.0,3,2.0,Fair,190.0,4,11.0,1
+23,Female,Finance,Bachelor,0,,4,4.0,Good,,6,21.0,0
+27,Female,Finance,High School,8,44286.0,2,4.0,Fair,187.0,2,21.0,0
+25,Female,Sales,Bachelor,1,31032.0,3,4.0,Excellent,144.0,4,1.0,0
+50,Female,Finance,Master,29,99141.0,3,5.0,Excellent,160.0,2,3.0,0
+39,Female,Finance,Bachelor,14,65374.0,3,4.0,Good,210.0,2,,1
+47,Male,Finance,Bachelor,24,89142.0,1,5.0,Good,157.0,1,5.0,0
+55,Female,Finance,High School,35,126973.0,3,3.0,Poor,214.0,7,13.0,0
+31,Male,Finance,Bachelor,7,40941.0,4,4.0,Poor,,6,12.0,0
+57,Male,IT,Master,37,122106.0,3,5.0,Excellent,178.0,2,9.0,0
+35,Female,HR,High School,11,54507.0,2,4.0,Fair,170.0,3,3.0,0
+52,Male,Sales,Bachelor,28,91215.0,5,2.0,Good,153.0,7,6.0,0
+36,Female,IT,Bachelor,15,67813.0,3,3.0,Excellent,154.0,2,10.0,0
+29,Male,HR,Master,8,45120.0,3,4.0,Excellent,157.0,4,8.0,0
+35,Female,Finance,Master,14,70157.0,5,2.0,Good,178.0,2,2.0,0
+44,Male,Sales,Bachelor,25,85073.0,4,5.0,Good,197.0,4,13.0,0
+42,Female,Sales,Master,20,94542.0,3,,Good,177.0,4,1.0,0
+37,Female,Finance,Master,13,66015.0,3,2.0,Excellent,174.0,3,6.0,0
+39,Male,Sales,Master,16,66111.0,3,5.0,Good,205.0,2,15.0,0
+45,Female,Sales,Master,25,100885.0,2,3.0,Good,176.0,2,1.0,0
+47,Female,Sales,Bachelor,26,97559.0,4,1.0,Poor,161.0,5,11.0,0
+46,Male,Sales,Bachelor,27,95330.0,2,,Poor,150.0,7,5.0,0
+50,Male,Sales,High School,29,97609.0,3,4.0,Good,206.0,5,1.0,0
+36,Male,IT,Bachelor,16,64627.0,5,1.0,Excellent,166.0,1,3.0,0
+22,Male,IT,PhD,2,55903.0,5,5.0,Excellent,160.0,4,34.0,0
+46,Female,Operations,Bachelor,22,77884.0,3,4.0,Excellent,,3,9.0,0
+28,Female,HR,Bachelor,7,44872.0,4,4.0,Good,205.0,5,71.0,0
+30,Male,Finance,Master,10,71003.0,3,3.0,Excellent,160.0,2,9.0,0
+45,Male,Sales,Bachelor,23,77089.0,5,4.0,Excellent,199.0,1,10.0,0
+22,Female,Sales,High School,0,29650.0,3,3.0,Good,169.0,3,6.0,1
+29,Male,Finance,Bachelor,8,35688.0,1,3.0,Fair,144.0,6,5.0,0
+45,Male,Sales,Bachelor,26,96823.0,3,3.0,Good,166.0,2,4.0,0
+32,Female,IT,Master,12,62169.0,3,4.0,Excellent,174.0,2,6.0,0
+38,Female,HR,High School,14,73156.0,3,1.0,Fair,172.0,6,8.0,0
+29,Female,HR,Bachelor,5,30684.0,4,4.0,Excellent,171.0,4,3.0,0
+56,Female,Sales,Bachelor,37,126036.0,4,4.0,Fair,166.0,4,,0
+56,Male,IT,Bachelor,32,119769.0,3,2.0,Good,155.0,5,4.0,0
+54,Female,HR,Master,29,104254.0,3,1.0,Good,175.0,5,8.0,0
+26,Male,Sales,Bachelor,5,35604.0,2,3.0,Good,188.0,2,13.0,0
+49,Male,Finance,Bachelor,25,84946.0,5,4.0,Good,138.0,7,24.0,0
+28,Male,Finance,PhD,6,61113.0,5,2.0,Excellent,207.0,2,5.0,0
+30,Male,Operations,Master,10,69139.0,5,3.0,Good,82.0,5,3.0,0
+29,Female,Sales,High School,6,40459.0,5,4.0,Fair,176.0,6,6.0,0
+33,Male,Finance,Bachelor,14,56032.0,3,4.0,Good,186.0,5,27.0,0
+55,Male,HR,Master,32,103849.0,1,3.0,Fair,159.0,2,1.0,0
+54,Male,IT,Master,30,127815.0,4,3.0,Fair,121.0,3,14.0,0
+44,Male,Sales,Bachelor,21,95943.0,5,4.0,Good,172.0,2,8.0,0
+45,Female,Finance,PhD,22,,3,5.0,Excellent,179.0,3,3.0,0
+58,Male,Sales,Bachelor,33,106016.0,1,5.0,Good,146.0,3,5.0,0
+56,Female,IT,Bachelor,34,120981.0,4,4.0,Good,154.0,2,4.0,0
+43,Male,Sales,Bachelor,24,97589.0,2,3.0,Good,199.0,7,26.0,0
+48,Female,Finance,High School,26,92966.0,3,,Fair,177.0,7,8.0,0
+56,Female,Finance,Master,31,117830.0,4,2.0,Excellent,137.0,1,10.0,0
+22,Male,Finance,High School,0,39854.0,3,2.0,Good,186.0,5,11.0,1
+56,Female,IT,High School,33,279544.0,2,4.0,Excellent,151.0,7,13.0,0
+58,Male,Sales,Master,37,140487.0,4,3.0,Fair,155.0,4,9.0,0
+35,Male,HR,Bachelor,15,65026.0,4,3.0,Fair,179.0,2,1.0,0
+24,Female,IT,High School,4,31099.0,5,5.0,Excellent,177.0,3,5.0,0
+22,Male,Sales,High School,0,21757.0,3,2.0,Good,164.0,2,3.0,0
+26,Male,Finance,High School,6,38082.0,2,2.0,Fair,162.0,5,14.0,0
+47,Female,Operations,Bachelor,22,,4,2.0,Fair,168.0,6,1.0,0
+35,Male,Finance,Master,13,409550.0,4,4.0,Excellent,155.0,7,10.0,0
+48,Female,Finance,Bachelor,28,103929.0,3,4.0,Good,202.0,7,3.0,0
+30,Male,Operations,High School,11,66015.0,4,3.0,Good,135.0,7,36.0,0
+36,Female,Sales,Master,13,76998.0,3,4.0,Fair,168.0,3,5.0,0
+36,Female,HR,Master,15,77989.0,3,4.0,Good,138.0,4,5.0,0
+47,Female,Operations,Bachelor,24,90598.0,2,4.0,Excellent,198.0,4,31.0,0
+34,Female,Sales,Bachelor,10,51819.0,3,,Fair,168.0,7,7.0,0
+53,Male,Finance,Bachelor,30,102473.0,3,4.0,Good,148.0,4,40.0,0
+53,Female,HR,Bachelor,28,88735.0,4,4.0,Excellent,192.0,6,1.0,0
+25,Male,HR,Bachelor,3,46154.0,4,2.0,Fair,117.0,7,5.0,0
+51,Male,Finance,Bachelor,29,87994.0,5,2.0,Good,182.0,1,14.0,0
+58,Male,Operations,PhD,38,136531.0,2,1.0,Good,203.0,3,27.0,0
+44,Male,Finance,High School,24,106096.0,2,,Good,179.0,6,4.0,0
+36,Male,Sales,Master,11,68589.0,1,4.0,Good,162.0,3,32.0,0
+50,Female,Operations,High School,26,96421.0,2,3.0,Good,143.0,7,11.0,0
+57,Female,Sales,Master,32,125098.0,4,1.0,Good,202.0,6,20.0,1
+34,Female,IT,Master,11,55177.0,4,4.0,Good,198.0,7,7.0,0
+53,Male,IT,Master,28,98849.0,4,5.0,Good,158.0,6,3.0,0
+28,Female,IT,High School,3,33940.0,3,4.0,Poor,159.0,7,30.0,0
+43,Male,IT,Bachelor,24,82773.0,3,4.0,Good,204.0,1,33.0,0
+49,Male,Operations,Bachelor,25,91900.0,3,,Excellent,188.0,3,9.0,0
+23,Male,Finance,Master,0,43884.0,2,5.0,Good,130.0,6,1.0,0
+27,Male,HR,Bachelor,6,56113.0,4,4.0,Good,170.0,1,2.0,0
+49,Female,Sales,Bachelor,30,111488.0,5,4.0,Good,169.0,2,11.0,0
+49,Female,Operations,Bachelor,28,92045.0,3,3.0,Excellent,181.0,7,1.0,0
+41,Male,Operations,Bachelor,22,,4,1.0,Excellent,175.0,5,7.0,1
+51,Male,Finance,Bachelor,29,97324.0,4,,Fair,162.0,6,5.0,0
+32,Male,Sales,High School,13,54367.0,2,2.0,Good,179.0,4,16.0,0
+49,Male,Sales,PhD,29,112546.0,4,5.0,Good,163.0,1,1.0,0
+46,Female,Sales,Master,21,105814.0,3,3.0,Good,260.0,1,9.0,0
+54,Male,Sales,PhD,32,130085.0,1,5.0,Fair,178.0,6,11.0,0
+22,Male,IT,Bachelor,0,28206.0,4,3.0,Excellent,174.0,1,12.0,0
+48,Male,Operations,Master,27,111374.0,5,3.0,Poor,221.0,2,7.0,0
+34,Female,IT,Master,15,81769.0,3,5.0,Good,140.0,1,5.0,0
+24,Female,Sales,Master,0,48950.0,3,3.0,Good,172.0,5,14.0,0
+27,Female,IT,Master,3,41550.0,5,3.0,Fair,151.0,5,23.0,0
+29,Female,Sales,Bachelor,9,55721.0,4,2.0,Excellent,190.0,7,15.0,0
+48,Male,Sales,Master,24,92710.0,4,4.0,Excellent,162.0,7,33.0,0
+30,Male,IT,Bachelor,5,40978.0,3,3.0,Good,189.0,4,16.0,0
+58,Female,IT,High School,38,125453.0,5,4.0,Good,187.0,2,18.0,0
+54,Female,Finance,Bachelor,30,106235.0,3,,Fair,194.0,5,3.0,0
+45,Female,Operations,PhD,25,113382.0,4,4.0,Good,188.0,6,7.0,0
+36,Female,IT,Master,17,88914.0,1,4.0,Fair,169.0,3,8.0,0
+53,Female,IT,PhD,34,130224.0,4,3.0,Good,140.0,3,4.0,0
+53,Female,Finance,Master,28,111453.0,3,3.0,Excellent,200.0,3,10.0,0
+45,Female,IT,Bachelor,20,73928.0,3,4.0,Fair,210.0,7,5.0,0
+33,Female,Sales,Bachelor,13,85866.0,3,3.0,Excellent,151.0,6,14.0,0
+23,Female,Operations,Bachelor,0,22697.0,3,3.0,Poor,193.0,1,8.0,1
+24,Female,Sales,High School,2,29394.0,4,3.0,Excellent,145.0,6,8.0,0
+58,Male,HR,Bachelor,34,122061.0,5,5.0,Fair,180.0,1,50.0,0
+38,Female,HR,Bachelor,14,61564.0,5,3.0,Good,185.0,3,6.0,0
+23,Male,IT,Bachelor,0,37064.0,3,3.0,Fair,164.0,4,6.0,0
+23,Female,IT,PhD,0,51224.0,4,4.0,Excellent,177.0,4,5.0,0
+49,Female,Finance,Bachelor,26,91774.0,4,4.0,Good,196.0,1,28.0,0
+44,Female,Sales,Master,23,91477.0,3,,Fair,172.0,3,9.0,0
+58,Male,Sales,Master,37,479953.0,1,3.0,Good,158.0,6,11.0,0
+53,Male,Finance,Bachelor,33,109361.0,4,,Good,144.0,4,3.0,0
+54,Male,HR,Bachelor,33,111104.0,5,5.0,Good,165.0,1,10.0,0
+22,Female,Sales,High School,3,30844.0,4,4.0,Excellent,145.0,6,4.0,0
+40,Male,Operations,Bachelor,21,81626.0,3,3.0,Good,165.0,3,16.0,1
+23,Male,IT,Master,0,31247.0,4,2.0,Fair,163.0,2,22.0,1
+47,Male,Finance,High School,27,103547.0,3,5.0,Poor,195.0,3,16.0,0
+53,Female,Finance,Bachelor,29,110078.0,4,4.0,Good,176.0,7,16.0,0
+27,Female,HR,Bachelor,5,36865.0,4,3.0,Good,238.0,3,9.0,0
+53,Male,IT,PhD,28,113918.0,2,2.0,Good,124.0,6,,0
+25,Male,Operations,Master,1,43923.0,5,4.0,Fair,182.0,6,7.0,0
+32,Male,Sales,Master,8,70122.0,3,3.0,Good,163.0,5,13.0,0
+38,Female,Finance,High School,18,86893.0,5,3.0,Excellent,151.0,5,4.0,0
+59,Female,Sales,Master,36,118778.0,3,2.0,Fair,174.0,6,1.0,0
+45,Male,IT,Master,22,103050.0,3,3.0,Good,172.0,6,7.0,0
+26,Female,IT,Master,1,,3,3.0,Excellent,201.0,2,,0
+55,Male,Operations,PhD,32,129662.0,3,4.0,Good,177.0,2,4.0,0
+27,Female,Operations,Bachelor,3,41537.0,2,3.0,Fair,157.0,3,16.0,0
+43,Male,Sales,PhD,20,96152.0,4,3.0,Good,183.0,7,1.0,0
+32,Male,Sales,PhD,11,86273.0,4,3.0,Excellent,169.0,4,4.0,0
+37,Male,Finance,High School,14,76391.0,4,3.0,Poor,146.0,7,17.0,0
+54,Female,IT,Bachelor,30,116690.0,1,2.0,Good,168.0,2,7.0,0
+30,Female,Sales,PhD,10,60248.0,4,3.0,Fair,180.0,3,15.0,0
+27,Male,Finance,High School,2,33162.0,2,,Good,176.0,7,11.0,0
+37,Female,HR,Bachelor,15,52018.0,4,1.0,Good,183.0,1,37.0,0
+50,Female,Operations,PhD,27,111377.0,2,1.0,Good,161.0,5,11.0,0
+24,Male,Sales,Bachelor,5,23320.0,5,1.0,Poor,182.0,7,1.0,1
+41,Male,IT,Bachelor,22,88602.0,4,4.0,Good,178.0,4,6.0,0
+57,Female,HR,Bachelor,33,114254.0,4,,Good,178.0,3,,0
+40,Male,Finance,Bachelor,18,71539.0,3,1.0,Good,175.0,7,32.0,1
+47,Male,HR,Bachelor,25,86170.0,2,5.0,Good,229.0,6,2.0,0
+24,Female,HR,High School,3,40012.0,3,2.0,Good,202.0,1,6.0,0
+40,Male,Sales,Master,18,76908.0,5,4.0,Excellent,182.0,5,4.0,1
+41,Male,Finance,Bachelor,22,76364.0,5,3.0,Good,154.0,1,23.0,0
+53,Male,IT,Master,33,112880.0,1,4.0,Good,167.0,3,5.0,0
+28,Female,Sales,Master,4,48369.0,4,3.0,Excellent,215.0,2,58.0,0
+54,Male,Finance,Bachelor,30,100341.0,4,3.0,Fair,160.0,5,1.0,0
+39,Male,Sales,Master,16,76926.0,4,4.0,Poor,170.0,1,2.0,0
+22,Male,Sales,High School,0,34174.0,2,4.0,Good,169.0,2,4.0,0
+32,Male,Operations,Bachelor,9,60206.0,3,3.0,Good,184.0,4,20.0,0
+49,Male,IT,Bachelor,30,116603.0,3,2.0,Excellent,164.0,3,26.0,0
+46,Male,Finance,PhD,27,117981.0,4,2.0,Excellent,179.0,3,1.0,0
+44,Female,IT,High School,25,95280.0,3,4.0,Good,164.0,5,1.0,1
+52,Male,Finance,Bachelor,33,114010.0,3,3.0,Good,207.0,1,17.0,0
+51,Male,Sales,Master,32,106606.0,5,3.0,Good,157.0,4,2.0,0
+56,Male,IT,Bachelor,37,119542.0,4,4.0,Fair,199.0,6,2.0,0
+28,Male,Operations,High School,8,47079.0,5,5.0,Excellent,160.0,5,1.0,1
+37,Male,Finance,Bachelor,18,70913.0,3,4.0,Excellent,153.0,6,1.0,0
+47,Female,IT,Master,25,102172.0,2,,Good,157.0,5,4.0,0
+23,Male,IT,Master,1,40744.0,5,4.0,Poor,,1,1.0,1
+22,Male,Operations,Bachelor,1,24609.0,3,3.0,Fair,185.0,4,6.0,0
+33,Male,HR,Bachelor,13,61291.0,3,3.0,Fair,145.0,1,22.0,0
+26,Female,Finance,Bachelor,3,32387.0,3,4.0,Excellent,166.0,3,5.0,0
+58,Female,Finance,Master,33,101546.0,2,3.0,Poor,194.0,6,16.0,0
+53,Female,Sales,Bachelor,34,315370.0,3,5.0,Excellent,193.0,2,2.0,0
+30,Male,Sales,Bachelor,9,53211.0,5,1.0,Good,139.0,7,13.0,0
+56,Female,Finance,Bachelor,31,116235.0,5,1.0,Good,182.0,3,5.0,0
+40,Male,Sales,High School,18,55582.0,5,5.0,Good,203.0,3,17.0,0
+37,Male,IT,Bachelor,16,63036.0,2,4.0,Good,159.0,6,2.0,0
+24,Male,Operations,High School,3,40951.0,3,3.0,Good,187.0,5,28.0,0
+41,Male,HR,Bachelor,17,79525.0,1,4.0,Excellent,,3,4.0,0
+45,Female,Finance,Master,23,94139.0,5,4.0,Good,184.0,7,6.0,0
+54,Female,HR,Bachelor,32,104537.0,3,4.0,Good,178.0,4,36.0,0
+45,Male,HR,PhD,25,122257.0,4,2.0,Good,191.0,3,11.0,0
+32,Female,Sales,High School,11,63868.0,4,4.0,Fair,189.0,4,6.0,0
+29,Female,IT,Master,10,71868.0,3,5.0,Good,141.0,1,36.0,0
+57,Female,IT,Master,35,123755.0,3,2.0,Excellent,178.0,5,,0
+59,Female,IT,Bachelor,38,133909.0,5,5.0,Poor,211.0,4,2.0,0
+41,Female,Finance,High School,21,66939.0,5,5.0,Fair,120.0,3,70.0,0
+56,Female,IT,Master,37,141549.0,3,4.0,Fair,199.0,5,4.0,1
+46,Female,IT,Bachelor,26,94467.0,3,4.0,Good,215.0,7,23.0,0
+56,Male,IT,PhD,32,131031.0,5,3.0,Fair,137.0,5,3.0,1
+46,Male,Sales,Bachelor,27,89937.0,1,3.0,Good,158.0,4,16.0,0
+50,Female,IT,PhD,29,107987.0,3,4.0,Poor,187.0,4,9.0,0
+39,Male,Sales,Bachelor,17,73361.0,2,5.0,Poor,152.0,2,48.0,0
+39,Female,Sales,Master,17,86911.0,4,4.0,Good,209.0,2,10.0,0
+23,Male,Sales,Master,2,50621.0,1,3.0,Fair,201.0,5,1.0,0
+56,Male,IT,Master,35,132258.0,3,2.0,Excellent,,6,12.0,0
+37,Male,Finance,Bachelor,16,72945.0,3,1.0,Poor,156.0,6,2.0,1
+57,Male,IT,Master,34,117609.0,4,3.0,Good,194.0,2,20.0,0
+54,Female,IT,Bachelor,35,123639.0,5,1.0,Fair,193.0,3,24.0,0
+25,Female,HR,Master,3,39215.0,4,4.0,Good,230.0,1,8.0,0
+54,Female,Sales,Bachelor,35,126356.0,4,3.0,Excellent,153.0,5,19.0,0
+35,Female,Operations,Master,15,76828.0,4,4.0,Excellent,211.0,1,2.0,0
+42,Male,HR,High School,20,79594.0,1,3.0,Poor,152.0,2,9.0,0
+41,Male,IT,Master,18,91927.0,3,4.0,Good,187.0,4,7.0,0
+29,Female,HR,Master,8,68011.0,5,4.0,Good,197.0,7,12.0,0
+28,Male,Sales,Master,4,56165.0,3,1.0,Fair,100.0,5,1.0,0
+24,Male,HR,Bachelor,3,30936.0,2,1.0,Fair,197.0,2,17.0,1
+38,Male,IT,Bachelor,17,78601.0,4,3.0,Excellent,209.0,3,1.0,0
+54,Male,Operations,PhD,31,120981.0,3,5.0,Excellent,202.0,7,13.0,1
+33,Female,Sales,Bachelor,14,71303.0,3,2.0,Excellent,226.0,5,1.0,1
+43,Female,HR,Bachelor,21,71098.0,5,4.0,Excellent,199.0,5,22.0,0
+43,Male,HR,Master,22,94250.0,5,5.0,Good,161.0,6,3.0,0
+51,Female,Sales,Master,29,105932.0,3,4.0,Fair,205.0,4,9.0,0
+59,Female,IT,Bachelor,34,,5,3.0,Fair,160.0,5,4.0,0
+59,Male,Finance,Master,38,143921.0,4,5.0,Poor,,4,16.0,0
+29,Female,Finance,Master,10,66591.0,4,2.0,Good,195.0,2,5.0,0
+48,Female,IT,High School,26,96328.0,1,3.0,Excellent,186.0,3,16.0,1
+48,Male,Finance,PhD,24,115633.0,2,5.0,Excellent,,7,5.0,0
+55,Male,Operations,High School,35,126468.0,4,4.0,Excellent,237.0,7,17.0,0
+42,Male,Operations,Bachelor,18,75298.0,5,3.0,Excellent,146.0,3,,0
+51,Male,Sales,High School,30,101002.0,4,3.0,Excellent,,5,4.0,0
+54,Male,Finance,High School,34,,2,3.0,Fair,182.0,5,318.0,1
+49,Female,IT,PhD,27,102630.0,2,3.0,Excellent,163.0,2,1.0,0
+54,Male,Operations,Bachelor,34,122277.0,4,3.0,Good,173.0,6,3.0,0
+26,Male,IT,Bachelor,5,36818.0,2,5.0,Fair,194.0,6,33.0,0
+40,Female,Sales,Bachelor,17,70578.0,4,5.0,Excellent,191.0,6,46.0,0
+25,Female,Finance,Bachelor,6,52328.0,1,5.0,Excellent,,4,17.0,0
+56,Male,IT,Bachelor,32,106675.0,2,3.0,Fair,178.0,6,4.0,0
+38,Male,Operations,Bachelor,17,77679.0,4,4.0,Poor,412.0,3,4.0,0
+49,Male,Operations,Bachelor,26,104111.0,4,5.0,Good,210.0,7,13.0,1
+51,Female,Finance,Master,31,118380.0,3,5.0,Good,216.0,7,2.0,0
+50,Male,Sales,Bachelor,30,107491.0,3,3.0,Excellent,200.0,4,,0
+27,Male,Finance,Bachelor,6,44044.0,4,2.0,Fair,146.0,2,4.0,1
+56,Female,Sales,Bachelor,34,115924.0,3,,Poor,168.0,3,96.0,1
+58,Male,Sales,Master,38,126068.0,4,4.0,Fair,179.0,7,9.0,0
+45,Female,Finance,Bachelor,23,85150.0,5,4.0,Poor,151.0,3,18.0,0
+50,Female,Sales,Bachelor,28,89694.0,2,4.0,Poor,176.0,7,1.0,0
+52,Male,IT,Bachelor,33,105309.0,5,3.0,Excellent,462.0,1,27.0,0
+56,Female,Operations,PhD,34,118976.0,3,2.0,Good,,2,4.0,0
+54,Male,IT,Bachelor,29,104611.0,4,3.0,Good,162.0,2,14.0,0
+42,Female,IT,Master,23,111032.0,3,3.0,Poor,204.0,1,20.0,0
+53,Female,Operations,Bachelor,30,,5,2.0,Fair,151.0,4,3.0,1
+44,Female,Sales,Bachelor,21,90221.0,3,4.0,Excellent,154.0,7,8.0,0
+54,Male,Finance,Master,34,134005.0,3,3.0,Good,165.0,7,9.0,0
+24,Female,Operations,Bachelor,4,30406.0,5,4.0,Excellent,176.0,7,5.0,0
+39,Female,Operations,Master,17,74629.0,4,3.0,Good,114.0,6,8.0,0
+46,Male,Finance,PhD,27,125426.0,4,3.0,Fair,186.0,6,5.0,0
+52,Female,IT,Master,33,121761.0,3,3.0,Good,217.0,6,6.0,0
+24,Male,IT,High School,0,19673.0,4,,Fair,191.0,6,14.0,0
+45,Male,Finance,Master,23,92405.0,1,1.0,Excellent,169.0,6,13.0,0
+53,Male,Operations,Bachelor,28,103357.0,1,4.0,Fair,430.0,1,4.0,1
+43,Male,HR,Master,21,86148.0,4,3.0,Good,,2,28.0,0
+44,Male,Sales,Master,20,67803.0,3,5.0,Fair,133.0,4,24.0,0
+23,Female,Sales,Master,0,37423.0,5,4.0,Good,171.0,3,263.0,0
+48,Male,Sales,Bachelor,27,95572.0,5,3.0,Excellent,227.0,6,7.0,0
+23,Female,Finance,Bachelor,1,32573.0,4,4.0,Good,107.0,1,6.0,0
+47,Male,IT,High School,28,110071.0,4,2.0,Good,192.0,7,15.0,0
+38,Female,Operations,Master,18,85428.0,4,5.0,Excellent,158.0,4,,0
+54,Female,Finance,Bachelor,31,109443.0,2,3.0,Good,166.0,4,3.0,0
+30,Male,Sales,Bachelor,9,60944.0,4,3.0,Fair,151.0,4,14.0,0
+50,Female,HR,Master,30,115082.0,3,4.0,Fair,486.0,1,4.0,0
+47,Male,IT,Bachelor,23,104592.0,3,4.0,Good,,3,1.0,0
+56,Female,HR,Bachelor,34,104890.0,4,3.0,Good,181.0,6,15.0,0
+46,Male,Finance,Bachelor,25,85026.0,4,4.0,Fair,191.0,4,,0
+45,Female,Finance,Bachelor,23,92411.0,5,3.0,Fair,132.0,1,7.0,0
+34,Male,Finance,Bachelor,10,65034.0,3,3.0,Excellent,196.0,7,9.0,0
+28,Female,IT,High School,7,45893.0,4,4.0,Fair,197.0,2,36.0,1
+57,Female,Sales,Bachelor,33,,2,3.0,Good,185.0,7,11.0,0
+41,Male,Finance,Bachelor,16,84087.0,4,3.0,Poor,164.0,1,13.0,0
+22,Male,Sales,Master,0,33661.0,4,4.0,Excellent,182.0,1,1.0,0
+29,Male,IT,High School,10,,4,2.0,Poor,170.0,1,3.0,0
+37,Male,Sales,Bachelor,18,85513.0,3,4.0,Good,199.0,4,5.0,0
+35,Female,Finance,PhD,13,78967.0,1,3.0,Poor,165.0,1,10.0,1
+33,Male,Sales,High School,10,50022.0,2,1.0,Good,177.0,2,18.0,1
+44,Male,Finance,Bachelor,20,75570.0,4,2.0,Excellent,131.0,4,,0
+36,Male,Operations,Master,16,87212.0,5,4.0,Good,182.0,7,6.0,0
+49,Female,Sales,PhD,30,133481.0,3,4.0,Good,156.0,2,4.0,0
+55,Male,Sales,Master,32,120269.0,4,1.0,Good,187.0,5,4.0,0
+23,Male,IT,Master,0,55064.0,5,,Fair,194.0,7,36.0,0
+53,Male,Operations,Master,32,120255.0,4,5.0,Excellent,159.0,1,13.0,0
+44,Male,Sales,Bachelor,23,97838.0,4,1.0,Fair,175.0,6,3.0,0
+43,Female,IT,Master,24,96543.0,4,5.0,Good,179.0,6,16.0,0
+46,Male,Sales,High School,23,106170.0,3,,Fair,184.0,4,16.0,0
+43,Male,Finance,PhD,24,122561.0,3,4.0,Fair,194.0,6,14.0,0
+43,Female,IT,Bachelor,22,83976.0,1,3.0,Fair,191.0,7,2.0,0
+27,Female,Finance,Bachelor,3,48976.0,5,5.0,Good,165.0,4,7.0,0
+36,Male,Operations,Bachelor,13,73571.0,5,4.0,Good,214.0,7,2.0,0
+58,Female,Sales,Master,36,142424.0,4,3.0,Good,193.0,1,21.0,0
+54,Female,Finance,High School,30,85144.0,2,1.0,Fair,,3,13.0,0
+29,Male,Sales,Master,5,58254.0,3,4.0,Poor,183.0,3,9.0,0
+26,Female,Operations,Master,2,49338.0,2,4.0,Excellent,185.0,2,6.0,1
+25,Female,Finance,Bachelor,3,41268.0,1,1.0,Excellent,172.0,1,3.0,0
+27,Male,Operations,Master,2,46746.0,4,1.0,Poor,163.0,6,2.0,0
+53,Male,Sales,Master,33,124482.0,5,4.0,Good,199.0,1,42.0,0
+51,Male,Sales,Master,32,130265.0,5,3.0,Good,181.0,5,3.0,0
+56,Female,IT,Bachelor,35,121815.0,4,4.0,Excellent,171.0,3,1.0,0
+37,Female,IT,Bachelor,18,333451.0,2,3.0,Excellent,149.0,6,40.0,0
+34,Female,Sales,Bachelor,11,66615.0,3,5.0,Excellent,213.0,7,10.0,0
+51,Male,IT,Bachelor,26,98344.0,3,5.0,Excellent,177.0,7,20.0,1
+40,Female,Sales,PhD,17,96608.0,4,5.0,Fair,144.0,3,1.0,0
+38,Female,IT,High School,19,92436.0,4,2.0,Excellent,177.0,1,11.0,1
+40,Male,Finance,Master,19,84024.0,3,5.0,Good,169.0,6,7.0,0
+49,Male,IT,Bachelor,27,85374.0,3,3.0,Poor,168.0,2,18.0,1
+47,Female,Sales,Bachelor,28,100578.0,1,4.0,Good,189.0,7,1.0,0
+58,Male,IT,Master,34,126716.0,3,,Excellent,170.0,1,7.0,0
+47,Female,Sales,Master,28,115772.0,3,1.0,Excellent,167.0,2,20.0,0
+44,Male,Operations,Bachelor,20,80858.0,2,5.0,Fair,209.0,6,9.0,0
+30,Male,Sales,Bachelor,8,56040.0,3,1.0,Good,131.0,3,10.0,0
+33,Male,Finance,Bachelor,14,85036.0,5,4.0,Excellent,173.0,5,2.0,0
+22,Male,Operations,High School,0,36412.0,4,4.0,Fair,198.0,4,2.0,0
+22,Female,Finance,Bachelor,0,37818.0,2,4.0,Good,190.0,3,,0
+55,Male,Finance,Bachelor,32,108963.0,3,2.0,Good,200.0,2,14.0,1
+53,Female,Finance,Bachelor,31,96417.0,3,3.0,Good,225.0,1,47.0,0
+46,Male,Operations,Master,21,74115.0,3,4.0,Fair,217.0,7,15.0,0
+22,Female,HR,Bachelor,3,33350.0,3,3.0,Good,146.0,6,9.0,0
+37,Male,HR,Bachelor,15,46857.0,4,3.0,Excellent,134.0,3,24.0,0
+26,Female,HR,Bachelor,5,46608.0,4,3.0,Good,183.0,7,2.0,1
+43,Female,HR,Master,19,,4,,Excellent,141.0,7,8.0,0
+50,Male,HR,Master,31,106993.0,3,,Good,126.0,5,5.0,0
+24,Male,IT,Bachelor,0,31046.0,4,,Fair,182.0,6,2.0,0
+33,Female,Sales,Master,9,56590.0,3,4.0,Good,189.0,2,18.0,0
+47,Female,Sales,Bachelor,25,96106.0,2,3.0,Fair,,6,9.0,0
+37,Male,Sales,Bachelor,15,73161.0,4,3.0,Excellent,194.0,6,10.0,0
+58,Female,IT,Bachelor,35,111885.0,4,1.0,Fair,222.0,1,7.0,0
+43,Female,Sales,Bachelor,19,75601.0,5,3.0,Good,183.0,4,8.0,0
+50,Female,HR,Master,27,109219.0,4,3.0,Good,146.0,7,2.0,0
+35,Female,IT,Master,11,56243.0,5,,Excellent,195.0,2,14.0,1
+49,Female,Finance,High School,26,96718.0,5,3.0,Fair,208.0,1,7.0,0
+26,Male,Sales,Master,3,36051.0,4,3.0,Poor,184.0,7,21.0,0
+51,Male,Sales,Bachelor,30,109525.0,4,3.0,Fair,211.0,4,3.0,0
+26,Male,Finance,High School,3,34018.0,4,3.0,Excellent,171.0,1,3.0,0
+33,Female,HR,Bachelor,11,46007.0,5,5.0,Fair,188.0,4,13.0,0
+37,Female,Sales,Bachelor,14,60360.0,4,3.0,Fair,170.0,4,23.0,0
+47,Male,Operations,Bachelor,23,83198.0,2,1.0,Fair,234.0,4,,0
+47,Female,Operations,Bachelor,24,98548.0,4,1.0,Good,196.0,1,,0
+42,Female,IT,Bachelor,17,73886.0,3,5.0,Poor,147.0,6,88.0,1
+57,Female,IT,Bachelor,37,114849.0,3,2.0,Fair,221.0,4,56.0,0
+54,Male,Operations,Master,30,,3,4.0,Fair,156.0,6,17.0,0
+51,Male,HR,Bachelor,26,100011.0,4,1.0,Good,175.0,7,17.0,0
+58,Male,HR,PhD,34,132309.0,5,5.0,Good,186.0,7,4.0,0
+44,Male,Finance,Bachelor,22,72569.0,3,5.0,Good,436.0,2,22.0,0
+31,Male,IT,Master,11,64103.0,2,4.0,Excellent,187.0,5,7.0,0
+26,Male,IT,Master,6,53235.0,3,1.0,Excellent,146.0,6,40.0,1
+57,Male,IT,Master,35,130452.0,4,3.0,Good,187.0,7,2.0,0
+55,Male,Finance,Bachelor,35,122358.0,3,3.0,Excellent,202.0,5,7.0,0
+52,Male,HR,Master,30,121452.0,3,3.0,Good,201.0,4,10.0,0
+31,Female,Finance,Bachelor,6,32108.0,3,3.0,Excellent,142.0,5,7.0,0
+40,Male,IT,Bachelor,19,79168.0,3,1.0,Good,158.0,5,3.0,1
+53,Female,Sales,Bachelor,29,101223.0,3,4.0,Good,148.0,4,11.0,0
+22,Female,IT,Bachelor,0,51423.0,4,3.0,Good,183.0,6,17.0,0
+26,Male,Finance,High School,2,35517.0,2,3.0,Excellent,136.0,4,13.0,0
+25,Male,HR,PhD,0,45018.0,4,1.0,Fair,146.0,2,4.0,0
+37,Male,Sales,Master,16,80882.0,3,5.0,Fair,158.0,3,16.0,0
+45,Female,Operations,Bachelor,20,,3,3.0,Good,130.0,1,4.0,0
+37,Female,Sales,PhD,17,76587.0,3,4.0,Fair,174.0,4,3.0,0
+23,Male,Operations,Bachelor,0,33266.0,4,3.0,Good,122.0,4,15.0,0
+49,Female,Sales,PhD,30,122515.0,5,1.0,Fair,187.0,5,23.0,0
+53,Male,Finance,Bachelor,32,,5,3.0,Fair,,2,8.0,0
+48,Male,Sales,High School,28,,4,3.0,Excellent,159.0,7,10.0,0
+41,Female,Operations,Master,20,81248.0,3,4.0,Good,163.0,7,5.0,1
+45,Male,IT,Master,25,109531.0,4,4.0,Good,173.0,5,9.0,0
+33,Female,Sales,Master,8,68867.0,4,,Fair,189.0,6,2.0,0
+56,Male,IT,PhD,34,,3,5.0,Fair,207.0,4,38.0,0
+54,Female,Sales,Master,30,100513.0,4,3.0,Excellent,200.0,4,20.0,0
+54,Male,Sales,Master,31,121364.0,3,,Excellent,230.0,5,14.0,0
+58,Male,Operations,Master,35,113132.0,3,5.0,Good,191.0,4,10.0,0
+33,Female,IT,Master,8,54710.0,3,2.0,Excellent,178.0,6,19.0,0
+24,Male,Finance,Bachelor,0,36924.0,3,,Excellent,163.0,3,9.0,0
+22,Female,HR,Master,0,45260.0,4,3.0,Excellent,164.0,1,5.0,0
+54,Female,Finance,Bachelor,29,106155.0,3,4.0,Good,188.0,1,3.0,0
+31,Female,Sales,Master,7,68003.0,2,3.0,Fair,150.0,1,13.0,0
+50,Female,Sales,Master,28,114480.0,2,5.0,Good,180.0,3,32.0,0
+34,Female,Finance,Master,9,46347.0,4,4.0,Good,174.0,4,3.0,0
+33,Female,Operations,Master,11,64543.0,4,2.0,Fair,156.0,5,3.0,0
+52,Female,IT,Master,28,109667.0,3,2.0,Excellent,148.0,7,7.0,1
+23,Female,IT,Bachelor,0,28730.0,1,4.0,Poor,238.0,2,20.0,1
+56,Male,IT,Master,32,115062.0,2,2.0,Good,,4,5.0,0
+44,Male,Operations,Bachelor,19,69258.0,5,4.0,Fair,173.0,3,4.0,0
+38,Female,IT,High School,14,84205.0,3,3.0,Good,205.0,6,12.0,0
+47,Male,IT,Bachelor,25,89390.0,3,3.0,Fair,188.0,3,10.0,0
+29,Male,Operations,Bachelor,10,,1,1.0,Excellent,163.0,7,1.0,0
+50,Male,Sales,Bachelor,28,90869.0,4,4.0,Good,145.0,1,355.0,0
+47,Male,Sales,Master,23,102756.0,4,2.0,Excellent,178.0,4,13.0,0
+31,Female,HR,Bachelor,6,46837.0,3,,Excellent,109.0,7,8.0,0
+47,Female,Operations,Bachelor,24,82624.0,2,3.0,Good,179.0,1,43.0,0
+55,Male,Sales,High School,33,108759.0,3,4.0,Excellent,175.0,2,14.0,0
+28,Male,IT,Bachelor,6,44878.0,4,,Poor,201.0,6,1.0,0
+25,Female,IT,Master,5,45747.0,5,2.0,Fair,146.0,1,8.0,1
+32,Male,IT,High School,9,50450.0,4,4.0,Fair,166.0,2,7.0,0
+50,Female,HR,Bachelor,26,76080.0,4,1.0,Fair,185.0,3,2.0,0
+57,Male,IT,Bachelor,38,130692.0,2,3.0,Excellent,180.0,1,31.0,0
+46,Male,IT,High School,21,92317.0,4,2.0,Poor,141.0,1,20.0,1
+42,Female,IT,Bachelor,22,88634.0,4,4.0,Good,158.0,5,4.0,0
+57,Male,HR,Bachelor,33,130614.0,3,5.0,Good,209.0,6,4.0,0
+31,Female,HR,Master,10,70456.0,5,4.0,Good,181.0,6,1.0,1
+58,Female,Operations,Master,38,144142.0,3,3.0,Good,133.0,7,5.0,0
+30,Male,Sales,Bachelor,8,59906.0,3,4.0,Excellent,197.0,3,11.0,0
+45,Female,Finance,PhD,24,87991.0,4,1.0,Fair,135.0,5,7.0,0
+56,Female,Finance,Bachelor,34,118389.0,4,5.0,Fair,167.0,7,42.0,0
+56,Male,IT,Bachelor,34,103936.0,4,2.0,Good,189.0,2,1.0,0
+57,Female,IT,PhD,36,130552.0,2,5.0,Good,205.0,7,11.0,0
+39,Female,IT,Bachelor,20,71944.0,4,4.0,Good,116.0,2,24.0,0
+53,Female,Sales,PhD,32,,4,4.0,Excellent,192.0,3,8.0,0
+45,Female,IT,High School,21,87703.0,3,4.0,Good,,6,1.0,0
+44,Male,Sales,Bachelor,24,93471.0,5,3.0,Good,161.0,2,4.0,0
+53,Female,IT,High School,33,,4,4.0,Poor,177.0,3,5.0,0
+58,Female,Finance,Master,37,138281.0,2,1.0,Good,98.0,7,41.0,0
+33,Female,IT,Master,9,68767.0,4,4.0,Good,,2,30.0,0
+34,Female,Finance,Master,14,78540.0,2,4.0,Fair,202.0,4,36.0,1
+44,Female,HR,Bachelor,20,,1,5.0,Fair,161.0,1,21.0,0
+46,Male,Operations,Bachelor,22,79085.0,3,3.0,Excellent,166.0,7,6.0,1
+56,Female,HR,High School,34,,5,1.0,Good,180.0,6,29.0,0
+51,Female,Sales,Bachelor,31,113367.0,3,3.0,Fair,165.0,7,49.0,0
+38,Female,Finance,PhD,18,84371.0,4,4.0,Good,163.0,4,6.0,0
+41,Female,Sales,Bachelor,19,77409.0,3,3.0,Fair,184.0,3,4.0,0
+46,Male,IT,Master,25,89975.0,4,3.0,Excellent,137.0,3,10.0,0
+43,Male,Operations,Master,21,100707.0,4,4.0,Fair,203.0,7,3.0,0
+34,Male,Sales,Bachelor,14,,4,4.0,Good,169.0,4,1.0,0
+40,Male,IT,Master,20,79230.0,3,3.0,Good,149.0,7,,0
+57,Female,Finance,High School,38,114178.0,4,3.0,Excellent,146.0,1,32.0,0
+33,Female,Operations,High School,12,63099.0,5,4.0,Fair,176.0,1,3.0,0
+40,Female,Finance,High School,18,,4,3.0,Good,167.0,5,7.0,0
+33,Male,IT,Bachelor,8,41225.0,3,4.0,Good,136.0,2,22.0,0
+30,Female,Finance,Bachelor,5,48792.0,5,1.0,Good,159.0,5,13.0,1
+28,Male,IT,Bachelor,7,,1,5.0,Good,154.0,1,7.0,0
+49,Male,Finance,Bachelor,27,104085.0,4,3.0,Good,206.0,4,17.0,0
+35,Female,Operations,Bachelor,13,67965.0,5,3.0,Excellent,178.0,2,28.0,1
+52,Female,Finance,Master,28,111242.0,2,4.0,Poor,214.0,4,32.0,0
+40,Male,Operations,Master,20,75324.0,3,4.0,Poor,157.0,5,6.0,0
+37,Male,Sales,High School,14,70449.0,3,2.0,Excellent,167.0,3,3.0,1
+26,Male,Finance,Bachelor,7,51516.0,4,4.0,Fair,184.0,4,,0
+56,Male,Finance,Master,35,130783.0,4,,Excellent,190.0,5,2.0,0
+33,Female,Sales,Bachelor,10,56565.0,3,,Good,193.0,5,16.0,0
+46,Male,Operations,Master,23,90469.0,3,4.0,Good,152.0,5,2.0,0
+42,Male,IT,Bachelor,21,91163.0,3,3.0,Fair,153.0,3,6.0,0
+57,Male,Finance,Bachelor,35,124685.0,3,4.0,Fair,166.0,3,7.0,1
+44,Male,Finance,Bachelor,23,78896.0,3,3.0,Good,212.0,7,3.0,0
+37,Male,Finance,Bachelor,14,75514.0,5,2.0,Excellent,149.0,3,31.0,1
+35,Male,Sales,Master,15,78553.0,1,5.0,Excellent,161.0,2,,0
+52,Male,HR,Bachelor,33,113533.0,5,4.0,Fair,193.0,3,27.0,0
+26,Male,HR,Master,7,56089.0,4,3.0,Fair,191.0,3,26.0,0
+56,Female,Operations,Master,36,129376.0,3,3.0,Poor,188.0,3,5.0,1
+44,Male,IT,Bachelor,24,,4,3.0,Excellent,177.0,4,15.0,0
+50,Female,IT,Master,28,118264.0,4,5.0,Fair,148.0,3,4.0,0
+32,Male,Finance,Bachelor,7,55594.0,3,2.0,Poor,157.0,2,18.0,1
+39,Female,IT,Bachelor,18,,2,3.0,Fair,203.0,5,10.0,0
+33,Female,HR,Master,14,82113.0,3,3.0,Fair,194.0,4,5.0,0
+30,Female,HR,Bachelor,10,48325.0,3,3.0,Excellent,141.0,1,7.0,0
+31,Female,Operations,Bachelor,10,59667.0,1,3.0,Good,196.0,3,,0
+38,Male,HR,Bachelor,19,76272.0,3,2.0,Fair,207.0,7,29.0,0
+59,Male,HR,Bachelor,38,108521.0,2,2.0,Fair,176.0,7,2.0,0
+28,Male,Sales,Master,9,49811.0,3,3.0,Fair,185.0,5,11.0,0
+34,Female,Sales,Master,12,64696.0,2,5.0,Poor,200.0,5,4.0,0
+30,Male,Sales,Master,5,55821.0,2,2.0,Fair,157.0,4,20.0,0
+48,Male,Sales,Master,23,92203.0,3,4.0,Good,233.0,7,1.0,0
+23,Female,HR,Bachelor,3,32771.0,5,4.0,Fair,205.0,1,,0
+26,Female,Finance,Bachelor,7,53606.0,1,4.0,Fair,188.0,6,3.0,0
+50,Female,HR,High School,28,95559.0,4,5.0,Good,174.0,7,11.0,0
+58,Female,Finance,Bachelor,34,125646.0,2,3.0,Excellent,187.0,7,22.0,0
+59,Female,Operations,Bachelor,38,134320.0,5,,Good,135.0,2,,1
+40,Male,Finance,PhD,19,97675.0,2,,Good,227.0,6,,0
+29,Male,Finance,Bachelor,6,51027.0,5,3.0,Good,203.0,5,9.0,0
+22,Male,HR,Bachelor,0,34937.0,4,4.0,Good,211.0,6,27.0,0
+43,Male,IT,Bachelor,24,88034.0,1,4.0,Poor,175.0,7,11.0,0
+38,Female,Sales,Master,15,84393.0,5,5.0,Excellent,,5,30.0,0
+28,Male,IT,Master,8,68071.0,4,2.0,Fair,158.0,6,10.0,0
+46,Female,Operations,Bachelor,27,89880.0,3,5.0,Good,195.0,5,9.0,0
+25,Male,Finance,Bachelor,2,36228.0,4,3.0,Excellent,162.0,5,4.0,0
+57,Female,Sales,Master,32,121140.0,5,3.0,Good,170.0,4,10.0,0
+27,Female,IT,Bachelor,6,51796.0,3,3.0,Excellent,188.0,1,2.0,0
+52,Male,Finance,Bachelor,33,108949.0,3,4.0,Good,158.0,5,,0
+40,Male,Sales,Master,17,77717.0,4,3.0,Excellent,201.0,2,14.0,1
+48,Male,IT,Master,23,98851.0,4,5.0,Excellent,174.0,7,61.0,0
+31,Male,Operations,High School,9,61950.0,5,5.0,Excellent,137.0,7,2.0,0
+47,Male,IT,Master,24,90404.0,4,5.0,Excellent,158.0,2,,0
+40,Male,Sales,Master,20,81801.0,3,1.0,Excellent,207.0,3,26.0,0
+24,Male,HR,Bachelor,4,35835.0,5,5.0,Good,356.0,5,7.0,0
+34,Female,Operations,PhD,14,82259.0,2,4.0,Good,197.0,5,8.0,0
+49,Female,HR,Master,30,100875.0,3,2.0,Fair,178.0,5,24.0,0
+41,Female,Sales,Master,20,101985.0,4,2.0,Good,170.0,6,,0
+49,Male,IT,Master,26,103957.0,4,2.0,Excellent,237.0,5,3.0,0
+29,Female,IT,Bachelor,7,45259.0,1,1.0,Good,142.0,5,27.0,0
+22,Male,HR,Bachelor,0,42981.0,4,4.0,Excellent,156.0,2,1.0,0
+24,Male,Finance,Bachelor,3,43242.0,3,5.0,Excellent,174.0,1,28.0,0
+34,Female,Sales,Bachelor,9,48216.0,3,3.0,Fair,235.0,1,1.0,0
+49,Male,Operations,Bachelor,28,101316.0,4,4.0,Fair,400.0,3,14.0,0
+46,Female,Sales,Master,26,104666.0,3,5.0,Fair,181.0,2,1.0,0
+54,Female,IT,Master,35,139086.0,1,3.0,Fair,166.0,5,15.0,1
+59,Male,Sales,Master,34,123660.0,3,5.0,Good,183.0,1,1.0,0
+27,Male,IT,Master,8,48463.0,5,4.0,Excellent,168.0,4,23.0,0
+53,Male,HR,Master,33,107482.0,2,,Excellent,192.0,4,8.0,0
+42,Female,HR,Bachelor,18,86801.0,3,3.0,Good,194.0,4,2.0,0
+37,Male,Sales,Bachelor,16,63691.0,4,4.0,Poor,169.0,5,,0
+42,Male,HR,Bachelor,21,87861.0,3,1.0,Fair,146.0,5,9.0,0
+32,Male,Sales,Master,10,65574.0,1,4.0,Good,177.0,3,3.0,0
+58,Female,Finance,Bachelor,35,114166.0,4,3.0,Fair,,7,1.0,0
+57,Male,Operations,Master,32,117921.0,3,5.0,Fair,154.0,3,7.0,0
+56,Male,IT,High School,37,135167.0,5,3.0,Good,183.0,3,2.0,0
+40,Female,HR,Master,15,65915.0,3,2.0,Fair,144.0,6,2.0,0
+41,Female,IT,Master,19,84408.0,3,4.0,Excellent,149.0,4,4.0,1
+39,Male,Sales,Master,17,89752.0,3,2.0,Fair,207.0,5,12.0,0
+35,Male,IT,PhD,16,79734.0,3,4.0,Poor,192.0,4,10.0,0
+36,Male,Finance,Master,13,83038.0,4,5.0,Poor,183.0,3,1.0,0
+52,Female,HR,PhD,33,139637.0,3,4.0,Fair,116.0,5,42.0,0
+22,Male,Sales,PhD,3,59674.0,3,1.0,Good,161.0,2,27.0,0
+24,Male,Finance,Master,4,45974.0,4,4.0,Good,190.0,1,4.0,0
+37,Female,HR,Master,14,63707.0,4,4.0,Good,380.0,1,2.0,0
+44,Female,Finance,High School,23,93156.0,3,4.0,Good,166.0,3,35.0,0
+32,Male,HR,Bachelor,12,81989.0,3,1.0,Good,194.0,7,8.0,0
+33,Female,HR,Bachelor,9,53667.0,3,3.0,Good,137.0,4,5.0,0
+31,Female,Sales,Bachelor,8,35391.0,1,4.0,Poor,133.0,2,,1
+53,Male,Sales,Bachelor,31,111160.0,2,2.0,Good,137.0,5,18.0,1
+37,Male,Operations,PhD,17,99382.0,4,3.0,Excellent,183.0,7,3.0,0
+29,Female,Sales,Master,6,47657.0,5,3.0,Excellent,161.0,4,18.0,0
+59,Male,Operations,Master,34,119835.0,3,4.0,Good,196.0,3,17.0,0
+33,Male,HR,Bachelor,14,59020.0,3,5.0,Fair,178.0,4,10.0,0
+45,Male,Sales,High School,21,78249.0,2,4.0,Fair,222.0,3,25.0,0
+49,Female,Sales,High School,28,98622.0,3,,Excellent,144.0,6,2.0,0
+29,Male,Sales,Bachelor,10,48112.0,1,3.0,Fair,183.0,1,11.0,0
+49,Male,Operations,High School,24,,5,5.0,Fair,155.0,7,8.0,0
+57,Male,IT,High School,32,,4,5.0,Fair,190.0,1,7.0,0
+47,Male,IT,PhD,23,106038.0,5,5.0,Fair,177.0,4,4.0,0
+29,Female,IT,Master,8,56510.0,5,4.0,Fair,150.0,2,6.0,0
+49,Female,Sales,Bachelor,27,98165.0,3,3.0,Good,,5,2.0,0
+49,Male,IT,High School,29,90338.0,4,4.0,Good,176.0,3,4.0,0
+58,Male,Sales,Bachelor,37,124605.0,3,3.0,Excellent,160.0,5,4.0,0
+57,Female,Finance,High School,34,111674.0,3,3.0,Poor,,1,16.0,0
+48,Male,IT,PhD,23,109415.0,5,4.0,Fair,149.0,2,1.0,0
+38,Male,IT,Bachelor,15,70697.0,2,1.0,Good,227.0,2,13.0,0
+30,Female,IT,Bachelor,8,426675.0,5,1.0,Good,198.0,5,4.0,0
+54,Female,IT,Bachelor,31,108323.0,3,3.0,Good,183.0,1,2.0,1
+41,Male,Operations,High School,20,88533.0,5,3.0,Excellent,246.0,5,5.0,0
+34,Male,HR,Master,11,64924.0,5,5.0,Poor,167.0,4,4.0,1
+49,Male,Sales,Master,27,105306.0,4,,Excellent,190.0,2,10.0,0
+50,Male,HR,Master,28,109272.0,4,2.0,Good,180.0,2,6.0,0
+34,Male,Sales,High School,12,66192.0,3,2.0,Fair,194.0,4,41.0,0
+56,Male,Sales,Bachelor,35,122547.0,4,1.0,Excellent,212.0,1,40.0,1
+27,Male,Operations,Bachelor,5,43580.0,5,1.0,Good,188.0,2,8.0,0
+39,Female,Finance,Master,14,65178.0,4,4.0,Fair,201.0,7,20.0,0
+26,Female,Operations,Bachelor,7,52404.0,4,3.0,Poor,161.0,6,1.0,0
+46,Male,IT,Bachelor,24,83108.0,4,4.0,Fair,169.0,6,10.0,0
+23,Male,HR,Master,0,32672.0,4,5.0,Good,215.0,6,17.0,0
+31,Female,Sales,Master,11,58392.0,4,4.0,Fair,189.0,3,3.0,0
+51,Male,Sales,Bachelor,28,99334.0,4,1.0,Fair,181.0,7,1.0,0
+26,Male,Finance,Bachelor,6,54693.0,4,2.0,Poor,156.0,3,3.0,0
+54,Female,IT,Bachelor,31,99777.0,2,5.0,Good,,1,7.0,0
+22,Male,Finance,Master,1,55928.0,3,3.0,Excellent,155.0,4,9.0,0
+39,Female,Finance,Bachelor,16,77278.0,3,4.0,Excellent,148.0,5,6.0,0
+53,Female,Sales,PhD,32,118283.0,2,5.0,Fair,177.0,7,7.0,0
+32,Male,HR,Bachelor,11,54437.0,2,5.0,Excellent,114.0,1,8.0,0
+42,Male,Finance,PhD,20,,4,5.0,Good,,5,18.0,0
+47,Male,Sales,Master,22,100319.0,2,,Excellent,184.0,1,2.0,0
+46,Female,Finance,Bachelor,26,87094.0,3,3.0,Good,166.0,3,18.0,0
+43,Female,HR,Master,21,79531.0,4,5.0,Good,168.0,6,15.0,0
+48,Female,Sales,High School,26,92394.0,5,4.0,Excellent,172.0,4,17.0,0
+34,Male,HR,PhD,15,96855.0,4,1.0,Poor,155.0,3,16.0,0
+54,Female,Operations,Master,33,120959.0,5,4.0,Good,179.0,4,8.0,0
+55,Female,Sales,High School,34,118187.0,4,4.0,Excellent,168.0,7,3.0,0
+56,Female,Finance,Master,36,133497.0,3,5.0,Excellent,177.0,5,10.0,0
+22,Female,Sales,PhD,0,37901.0,4,4.0,Excellent,171.0,1,39.0,0
+42,Female,Finance,High School,19,70305.0,4,3.0,Good,166.0,2,11.0,0
+27,Female,Finance,Bachelor,5,42551.0,3,5.0,Fair,,2,1.0,0
+49,Female,IT,Master,25,98041.0,1,4.0,Poor,194.0,4,1.0,0
+38,Male,IT,Master,14,88635.0,4,4.0,Good,161.0,6,60.0,0
+26,Male,Finance,Bachelor,3,,1,,Good,184.0,6,1.0,0
+52,Female,IT,Bachelor,28,92725.0,4,3.0,Fair,187.0,4,1.0,0
+26,Male,Finance,High School,7,49824.0,3,4.0,Fair,142.0,3,6.0,0
+59,Female,Sales,Bachelor,36,114976.0,4,1.0,Good,199.0,2,42.0,0
+24,Female,Operations,Bachelor,3,14365.0,4,3.0,Excellent,226.0,3,5.0,0
+44,Female,Finance,PhD,22,120477.0,1,4.0,Excellent,172.0,5,7.0,0
+58,Male,Operations,High School,33,103905.0,3,3.0,Excellent,170.0,2,13.0,0
+58,Male,Sales,Master,36,134487.0,4,,Excellent,169.0,5,1.0,0
+31,Male,HR,High School,8,39972.0,4,2.0,Good,190.0,1,28.0,0
+31,Female,HR,Bachelor,12,53095.0,5,3.0,Excellent,187.0,3,9.0,0
+40,Female,IT,Bachelor,17,59516.0,3,4.0,Good,135.0,4,8.0,0
+38,Female,IT,Bachelor,16,64070.0,4,3.0,Excellent,153.0,2,24.0,0
+42,Male,Sales,Master,23,92345.0,3,1.0,Excellent,187.0,3,37.0,0
+35,Female,Finance,PhD,16,88939.0,3,,Excellent,171.0,4,7.0,0
+30,Female,HR,Master,11,64519.0,3,,Good,145.0,1,3.0,0
+22,Male,Sales,PhD,2,380526.0,4,4.0,Poor,212.0,2,21.0,0
+34,Female,Finance,Master,11,63308.0,3,2.0,Fair,155.0,5,7.0,1
+25,Male,IT,Bachelor,1,44076.0,2,3.0,Poor,175.0,1,,1
+22,Male,Sales,Master,0,50627.0,4,5.0,Fair,170.0,6,36.0,0
+53,Female,Operations,Master,30,118645.0,4,3.0,Fair,148.0,4,2.0,0
+55,Male,Operations,High School,32,115304.0,3,4.0,Fair,179.0,2,38.0,0
+49,Female,HR,Master,29,128986.0,2,3.0,Good,184.0,2,6.0,0
+52,Female,Sales,High School,28,104569.0,3,2.0,Good,163.0,7,258.0,1
+29,Female,Finance,Bachelor,6,50153.0,3,4.0,Fair,166.0,7,1.0,0
+47,Male,IT,Master,24,87483.0,4,4.0,Good,190.0,1,27.0,0
+55,Male,IT,High School,35,108598.0,3,,Good,125.0,2,,0
+24,Female,IT,Bachelor,4,39738.0,4,3.0,Good,153.0,4,13.0,1
+33,Male,HR,PhD,11,71040.0,5,2.0,Excellent,180.0,1,28.0,0
+22,Male,HR,Master,2,37016.0,3,4.0,Fair,161.0,5,9.0,0
+26,Male,IT,Bachelor,1,25440.0,5,4.0,Fair,161.0,1,7.0,0
+51,Female,HR,Master,27,96111.0,3,2.0,Good,197.0,1,255.0,0
+51,Male,Operations,Bachelor,29,96168.0,3,1.0,Fair,159.0,5,17.0,0
+38,Female,IT,Bachelor,13,65215.0,3,2.0,Good,224.0,6,36.0,0
+44,Female,Finance,PhD,21,116870.0,2,,Good,131.0,7,34.0,0
+36,Male,Operations,Master,13,78875.0,2,,Fair,119.0,4,6.0,0
+58,Male,IT,Bachelor,36,,3,5.0,Fair,196.0,6,8.0,0
+42,Female,IT,Master,22,82011.0,4,2.0,Fair,150.0,6,4.0,0
+35,Female,HR,Master,16,80954.0,5,5.0,Good,150.0,6,,0
+23,Female,HR,High School,4,39464.0,4,,Good,199.0,7,6.0,1
+32,Female,Finance,Bachelor,9,54825.0,2,3.0,Fair,162.0,3,19.0,0
+59,Male,IT,Bachelor,38,122114.0,4,4.0,Fair,197.0,7,2.0,0
+55,Male,Operations,Master,34,138296.0,4,3.0,Poor,159.0,6,2.0,0
+59,Male,Sales,Master,37,132922.0,4,3.0,Poor,184.0,3,3.0,0
+55,Male,Sales,Master,30,116201.0,4,2.0,Excellent,162.0,5,2.0,0
+39,Male,HR,PhD,17,76800.0,5,2.0,Poor,152.0,7,,0
+51,Male,IT,Master,27,106646.0,3,4.0,Good,218.0,4,2.0,0
+36,Male,Sales,High School,16,,4,4.0,Excellent,202.0,6,3.0,0
+48,Female,IT,Bachelor,28,104444.0,3,4.0,Poor,156.0,2,1.0,1
+55,Female,IT,Bachelor,33,95255.0,5,4.0,Good,170.0,5,19.0,0
+59,Male,Sales,Bachelor,36,116402.0,3,4.0,Excellent,211.0,3,21.0,0
+54,Female,Operations,Master,31,131355.0,1,1.0,Excellent,150.0,7,3.0,1
+45,Male,Sales,Master,24,98794.0,2,2.0,Good,151.0,4,17.0,1
+36,Female,Finance,Bachelor,15,,4,5.0,Excellent,186.0,1,7.0,0
+51,Male,Finance,Bachelor,31,120452.0,3,1.0,Excellent,231.0,4,4.0,0
+38,Female,Operations,Master,17,81263.0,3,4.0,Fair,176.0,4,12.0,0
+26,Female,Sales,Bachelor,1,38828.0,5,,Excellent,201.0,6,,0
+50,Male,Operations,Bachelor,29,105791.0,5,4.0,Good,149.0,6,17.0,1
+25,Male,HR,Bachelor,0,35001.0,3,4.0,Good,184.0,7,1.0,0
+31,Male,HR,High School,10,58033.0,3,3.0,Excellent,166.0,7,39.0,1
+38,Male,HR,PhD,18,90618.0,4,3.0,Excellent,221.0,3,,0
+31,Male,Finance,High School,11,53917.0,5,4.0,Good,214.0,7,11.0,0
+38,Female,IT,Bachelor,13,55663.0,4,,Poor,231.0,3,28.0,0
+41,Male,Finance,Bachelor,19,64382.0,4,2.0,Good,157.0,6,1.0,0
+45,Female,HR,PhD,25,122456.0,3,4.0,Good,175.0,6,9.0,0
+26,Female,Finance,Bachelor,4,40080.0,4,,Good,184.0,2,6.0,0
+55,Male,Operations,High School,32,119553.0,4,5.0,Excellent,158.0,2,11.0,0
+27,Female,Sales,High School,2,47522.0,4,3.0,Excellent,178.0,5,4.0,0
+23,Male,Operations,Bachelor,4,40427.0,2,2.0,Good,197.0,6,1.0,0
+34,Female,Sales,Bachelor,14,54492.0,5,4.0,Poor,161.0,1,12.0,0
+32,Male,Sales,Master,8,58430.0,4,3.0,Good,157.0,2,7.0,0
+44,Female,Sales,Bachelor,21,77130.0,3,3.0,Good,155.0,3,12.0,0
+37,Female,IT,High School,15,51658.0,4,3.0,Good,141.0,4,3.0,1
+52,Male,HR,Master,32,115986.0,4,3.0,Good,196.0,7,,0
+32,Male,Sales,Bachelor,7,,4,,Good,157.0,7,10.0,0
+37,Female,Sales,Bachelor,18,69853.0,4,2.0,Fair,154.0,5,11.0,0
+29,Female,Operations,Bachelor,8,43827.0,4,3.0,Fair,188.0,2,6.0,1
+25,Male,Finance,PhD,6,54779.0,5,3.0,Good,174.0,4,4.0,0
+25,Male,Finance,Bachelor,1,34067.0,2,4.0,Fair,161.0,4,4.0,0
+46,Female,Operations,Master,24,114954.0,2,4.0,Fair,195.0,2,3.0,0
+24,Male,Finance,Master,1,52728.0,3,3.0,Fair,160.0,1,5.0,0
+53,Female,Sales,High School,34,120229.0,4,4.0,Good,120.0,1,3.0,0
+24,Male,IT,PhD,0,55403.0,4,4.0,Poor,,5,13.0,0
+48,Male,Finance,Bachelor,24,88938.0,5,4.0,Excellent,154.0,1,11.0,0
+50,Female,IT,High School,25,78063.0,4,,Good,157.0,5,6.0,0
+53,Male,Finance,Master,33,119544.0,4,,Good,157.0,3,5.0,0
+40,Male,Sales,Master,19,79745.0,5,5.0,Good,176.0,2,4.0,0
+42,Male,IT,Master,19,88737.0,3,1.0,Fair,168.0,4,10.0,0
+26,Male,HR,Bachelor,1,42365.0,4,3.0,Good,,5,31.0,0
+39,Female,HR,Bachelor,17,88287.0,3,4.0,Excellent,216.0,7,14.0,0
+49,Male,HR,Master,29,113016.0,4,2.0,Excellent,158.0,1,17.0,0
+43,Female,Finance,Bachelor,23,74162.0,4,2.0,Excellent,151.0,7,22.0,0
+42,Female,Sales,Bachelor,19,78001.0,4,,Good,161.0,5,6.0,0
+27,Female,Sales,High School,7,48218.0,2,4.0,Fair,185.0,6,1.0,0
+22,Male,Operations,Bachelor,0,35430.0,3,4.0,Poor,172.0,5,12.0,0
+26,Male,Finance,Master,1,42346.0,4,4.0,Good,162.0,1,3.0,1
+33,Female,Sales,Bachelor,10,55532.0,4,2.0,Good,142.0,6,11.0,0
+47,Female,Finance,PhD,27,112443.0,3,1.0,Fair,119.0,6,17.0,0
+55,Female,Sales,Bachelor,35,115004.0,5,4.0,Excellent,149.0,1,19.0,0
+35,Male,IT,Master,13,76605.0,3,3.0,Good,206.0,6,5.0,0
+47,Male,Sales,Bachelor,26,78932.0,4,4.0,Fair,185.0,2,9.0,0
+48,Female,Finance,Bachelor,27,94961.0,4,2.0,Excellent,170.0,4,12.0,0
+30,Female,Finance,Bachelor,11,63003.0,4,3.0,Excellent,193.0,7,21.0,0
+47,Female,Sales,Bachelor,27,110625.0,5,3.0,Good,142.0,2,18.0,0
+43,Female,Operations,Bachelor,18,71813.0,4,4.0,Excellent,176.0,2,54.0,0
+51,Female,IT,PhD,28,129482.0,4,3.0,Excellent,130.0,1,1.0,0
+38,Male,IT,Master,18,98520.0,1,3.0,Good,183.0,1,7.0,0
+47,Male,Sales,Bachelor,23,84416.0,3,3.0,Poor,181.0,7,4.0,0
+57,Male,IT,High School,34,110534.0,3,1.0,Poor,182.0,4,2.0,0
+22,Male,Sales,High School,3,36043.0,4,2.0,Good,479.0,5,30.0,0
+29,Female,HR,Bachelor,8,49344.0,3,,Fair,194.0,2,75.0,1
+56,Male,Finance,Master,36,138726.0,3,3.0,Excellent,144.0,6,3.0,0
+36,Male,HR,PhD,14,78810.0,3,3.0,Excellent,204.0,4,1.0,0
+43,Male,Sales,High School,19,89804.0,2,3.0,Excellent,169.0,2,4.0,0
+35,Male,Sales,Bachelor,15,61093.0,3,4.0,Excellent,125.0,5,22.0,0
+47,Male,Sales,Bachelor,28,89884.0,5,5.0,Excellent,172.0,6,5.0,0
+49,Male,IT,Master,24,104190.0,4,3.0,Fair,191.0,2,1.0,1
+44,Female,Finance,Bachelor,20,89844.0,4,2.0,Fair,149.0,3,1.0,1
+35,Male,Sales,Master,16,81429.0,4,2.0,Good,208.0,7,7.0,0
+45,Female,Finance,Master,25,105980.0,3,4.0,Good,151.0,4,33.0,0
+23,Male,Operations,High School,0,45634.0,5,3.0,Good,162.0,7,5.0,0
+47,Male,IT,Master,23,107457.0,2,2.0,Good,158.0,1,7.0,0
+35,Male,Finance,High School,10,55247.0,3,4.0,Excellent,132.0,2,2.0,0
+28,Female,HR,Master,3,44050.0,4,2.0,Good,150.0,6,9.0,0
+24,Female,HR,Bachelor,0,38760.0,2,4.0,Excellent,157.0,6,15.0,0
+44,Male,HR,Bachelor,20,86634.0,4,3.0,Fair,171.0,4,4.0,0
+39,Male,IT,PhD,14,,3,4.0,Good,99.0,4,5.0,0
+59,Female,Sales,Master,38,132383.0,4,,Poor,192.0,7,23.0,0
+56,Male,IT,Master,35,126888.0,3,5.0,Excellent,192.0,6,1.0,0
+36,Male,IT,Bachelor,12,,3,4.0,Poor,204.0,6,13.0,1
+46,Female,HR,Master,26,102517.0,4,2.0,Good,137.0,6,7.0,1
+58,Female,Sales,Bachelor,35,112690.0,3,2.0,Poor,167.0,2,5.0,0
+49,Male,Operations,Master,27,109621.0,3,3.0,Fair,198.0,6,13.0,0
+31,Female,Finance,Bachelor,6,39829.0,2,4.0,Good,200.0,1,22.0,0
+38,Female,IT,PhD,13,426845.0,4,4.0,Good,211.0,6,10.0,0
+43,Male,Sales,PhD,21,85701.0,4,3.0,Fair,177.0,1,1.0,0
+47,Female,Operations,Master,26,100201.0,3,,Fair,173.0,2,8.0,0
+46,Female,Finance,Bachelor,24,98786.0,5,1.0,Good,136.0,4,8.0,1
+38,Male,Finance,High School,14,57796.0,5,1.0,Good,201.0,1,10.0,0
+34,Male,IT,Master,12,74736.0,4,5.0,Poor,163.0,2,14.0,0
+41,Male,IT,Bachelor,16,63461.0,4,4.0,Good,175.0,6,373.0,0
+46,Female,Sales,Master,24,106206.0,3,3.0,Poor,174.0,2,9.0,0
+25,Male,Sales,Bachelor,2,32623.0,4,4.0,Good,115.0,6,11.0,0
+31,Female,Finance,Bachelor,11,54806.0,3,5.0,Fair,154.0,7,6.0,0
+24,Female,Finance,PhD,0,50434.0,2,4.0,Good,186.0,2,,0
+39,Male,HR,Master,17,71752.0,5,4.0,Fair,173.0,4,4.0,0
+57,Female,Operations,Bachelor,32,,4,4.0,Excellent,186.0,1,5.0,0
+43,Male,HR,Bachelor,24,100427.0,3,,Fair,194.0,7,40.0,0
+55,Female,IT,Bachelor,35,432625.0,3,4.0,Fair,154.0,4,6.0,0
+29,Female,IT,Master,5,56693.0,4,2.0,Fair,162.0,3,6.0,0
+40,Male,Operations,Bachelor,15,73731.0,1,5.0,Excellent,171.0,6,11.0,1
+58,Male,Sales,PhD,37,141769.0,2,3.0,Good,194.0,1,,0
+27,Male,Operations,Master,4,41134.0,1,4.0,Good,169.0,4,49.0,1
+47,Male,Finance,Bachelor,26,107752.0,3,3.0,Excellent,130.0,1,11.0,0
+55,Male,Sales,Master,32,116859.0,4,2.0,Excellent,170.0,3,1.0,0
+27,Male,HR,Bachelor,5,37626.0,2,3.0,Good,193.0,5,28.0,0
+58,Female,Operations,Bachelor,34,128110.0,4,5.0,Fair,,6,11.0,0
+54,Male,HR,PhD,32,134880.0,3,5.0,Excellent,182.0,6,,0
+43,Male,Operations,High School,20,,4,3.0,Fair,137.0,2,22.0,0
+42,Female,Operations,Bachelor,19,,5,5.0,Good,164.0,6,7.0,0
+27,Male,IT,Bachelor,4,46422.0,4,4.0,Good,186.0,6,1.0,0
+27,Female,IT,Bachelor,7,70672.0,5,4.0,Excellent,196.0,4,21.0,0
+25,Female,Operations,Bachelor,0,,5,1.0,Good,187.0,7,10.0,0
+51,Female,Finance,Master,27,111468.0,3,5.0,Good,168.0,6,5.0,0
+32,Male,Sales,Master,10,70768.0,4,4.0,Excellent,196.0,6,4.0,0
+51,Male,Sales,Master,29,109875.0,5,5.0,Fair,158.0,3,11.0,0
+52,Male,HR,High School,31,,3,4.0,Fair,179.0,7,3.0,0
+45,Female,Operations,Bachelor,22,82196.0,3,4.0,Good,193.0,3,5.0,0
+30,Male,Finance,Bachelor,11,52900.0,5,4.0,Excellent,189.0,1,13.0,0
+24,Male,Finance,Bachelor,1,29680.0,4,3.0,Poor,189.0,1,26.0,1
+52,Female,Sales,Bachelor,29,99643.0,3,3.0,Poor,,6,10.0,0
+58,Male,IT,Bachelor,38,123042.0,3,3.0,Poor,148.0,6,18.0,0
+57,Male,Operations,Bachelor,35,115318.0,4,1.0,Poor,175.0,2,18.0,1
+45,Male,Sales,Bachelor,24,91944.0,4,4.0,Excellent,152.0,1,14.0,0
+52,Female,IT,PhD,27,118130.0,4,4.0,Good,167.0,4,4.0,0
+27,Male,Sales,PhD,8,71338.0,4,5.0,Good,145.0,6,25.0,0
+23,Female,Finance,Master,3,59678.0,4,2.0,Good,183.0,4,7.0,0
+41,Female,Operations,PhD,17,93113.0,4,4.0,Excellent,125.0,6,1.0,0
+49,Male,IT,Master,30,132687.0,4,1.0,Fair,190.0,4,4.0,1
+32,Female,IT,Bachelor,7,50321.0,4,2.0,Good,400.0,5,18.0,0
+25,Male,HR,High School,3,33921.0,4,1.0,Good,222.0,4,1.0,0
+36,Male,Operations,Master,16,,3,4.0,Fair,169.0,7,2.0,0
+27,Female,Sales,Master,7,56863.0,3,2.0,Good,169.0,1,15.0,1
+51,Female,IT,Master,31,98350.0,5,4.0,Fair,192.0,6,27.0,1
+59,Female,IT,Master,36,129967.0,2,3.0,Poor,171.0,1,13.0,0
+23,Male,Operations,Bachelor,0,28006.0,3,5.0,Fair,181.0,7,4.0,0
+36,Male,IT,Master,14,87852.0,3,4.0,Excellent,199.0,7,1.0,0
+32,Male,Sales,PhD,10,67819.0,4,5.0,Poor,168.0,4,,0
+29,Male,HR,Bachelor,9,49838.0,3,5.0,Excellent,,3,1.0,0
+47,Male,Finance,Master,25,112641.0,3,5.0,Poor,133.0,3,12.0,0
+26,Male,Sales,Bachelor,2,38155.0,2,5.0,Excellent,215.0,7,4.0,0
+27,Male,Operations,Master,3,46128.0,4,4.0,Excellent,465.0,3,29.0,0
+47,Male,Sales,Master,26,98948.0,3,2.0,Excellent,208.0,6,8.0,1
+25,Male,HR,High School,6,47813.0,3,,Excellent,128.0,2,4.0,0
+40,Male,IT,Master,21,92265.0,3,2.0,Fair,224.0,5,24.0,0
+41,Female,Finance,Bachelor,20,73857.0,5,4.0,Fair,179.0,4,,0
+54,Male,IT,Master,29,106773.0,3,,Good,151.0,2,,0
+41,Female,Operations,Bachelor,22,78484.0,2,5.0,Fair,221.0,3,22.0,0
+33,Female,Finance,Master,9,54559.0,4,5.0,Poor,147.0,4,5.0,0
+22,Male,HR,High School,0,37472.0,5,3.0,Excellent,169.0,2,7.0,0
+47,Female,Finance,Master,28,116395.0,4,3.0,Good,240.0,1,6.0,0
+35,Female,Finance,Bachelor,11,64985.0,5,5.0,Good,184.0,3,2.0,0
+59,Female,Sales,Master,38,135035.0,4,3.0,Excellent,124.0,2,1.0,0
+58,Male,IT,PhD,38,143058.0,1,4.0,Good,168.0,6,16.0,0
+32,Male,Operations,PhD,12,78204.0,4,2.0,Good,165.0,1,13.0,0
+57,Male,Sales,Master,35,135668.0,3,4.0,Excellent,179.0,3,4.0,0
+34,Male,Finance,Master,14,60438.0,4,,Fair,173.0,5,,0
+24,Female,Operations,Bachelor,1,28384.0,3,5.0,Good,188.0,7,35.0,0
+54,Female,Sales,Bachelor,33,105401.0,3,4.0,Excellent,136.0,3,53.0,0
+27,Male,Finance,Bachelor,3,48379.0,5,2.0,Excellent,161.0,6,8.0,0
+31,Female,IT,Master,12,66180.0,3,,Excellent,182.0,5,20.0,1
+26,Male,HR,PhD,6,51912.0,5,3.0,Good,155.0,5,17.0,0
+44,Male,Sales,Bachelor,23,89287.0,1,5.0,Excellent,202.0,5,5.0,0
+31,Female,Sales,PhD,11,74539.0,2,4.0,Poor,156.0,4,1.0,0
+23,Male,Finance,Master,0,35544.0,5,3.0,Fair,178.0,4,2.0,0
+34,Male,Finance,Master,10,59719.0,4,3.0,Good,172.0,7,22.0,0
+23,Male,Finance,Bachelor,0,24404.0,4,4.0,Good,149.0,5,16.0,1
+41,Male,HR,High School,17,78168.0,3,4.0,Fair,176.0,7,14.0,0
+22,Female,Sales,Bachelor,1,34290.0,4,4.0,Good,142.0,1,2.0,0
+58,Female,Finance,Master,36,128416.0,4,3.0,Fair,163.0,5,13.0,0
+30,Female,Sales,Bachelor,10,46214.0,4,4.0,Good,175.0,2,18.0,0
+38,Female,Operations,Bachelor,18,73648.0,3,4.0,Excellent,139.0,5,24.0,0
+30,Male,Finance,Master,7,59585.0,5,5.0,Good,190.0,4,1.0,0
+32,Male,Finance,Master,13,382997.0,4,5.0,Fair,181.0,4,14.0,0
+36,Female,Operations,PhD,11,78787.0,5,4.0,Good,188.0,2,1.0,0
+45,Male,Sales,Bachelor,25,85119.0,4,4.0,Good,175.0,2,15.0,0
+59,Female,Finance,Bachelor,38,105774.0,4,3.0,Good,146.0,3,13.0,1
+56,Female,IT,Master,34,139396.0,2,4.0,Good,174.0,1,2.0,0
+51,Male,Operations,Bachelor,32,99522.0,3,3.0,Good,190.0,1,18.0,0
+52,Female,IT,High School,31,91780.0,5,3.0,Excellent,145.0,1,1.0,1
+26,Female,Finance,Bachelor,1,33544.0,3,3.0,Poor,147.0,6,22.0,0
+35,Female,Operations,Bachelor,12,46331.0,2,4.0,Good,168.0,4,4.0,0
+32,Male,Sales,Bachelor,12,53561.0,3,2.0,Good,165.0,1,15.0,0
+30,Male,IT,Bachelor,9,56890.0,3,3.0,Good,174.0,3,31.0,1
+55,Male,Finance,Bachelor,36,134181.0,5,3.0,Fair,,3,5.0,0
+33,Male,IT,High School,9,55600.0,5,1.0,Fair,178.0,1,9.0,1
+56,Male,IT,Master,34,121486.0,3,2.0,Fair,205.0,2,8.0,0
+56,Female,Sales,Bachelor,37,122088.0,2,4.0,Excellent,188.0,3,3.0,0
+22,Male,Sales,Master,1,28031.0,4,4.0,Good,176.0,7,11.0,0
+43,Female,Operations,Bachelor,21,78893.0,4,3.0,Good,147.0,2,17.0,0
+50,Female,HR,Bachelor,30,101401.0,5,5.0,Excellent,156.0,7,30.0,1
+29,Female,Sales,Master,5,53726.0,4,4.0,Fair,196.0,4,23.0,0
+32,Male,IT,Bachelor,9,68037.0,3,3.0,Excellent,163.0,6,9.0,0
+58,Female,IT,Bachelor,38,109505.0,4,4.0,Good,150.0,3,,0
+35,Male,Sales,Bachelor,12,56738.0,5,5.0,Fair,227.0,2,20.0,0
+51,Male,IT,PhD,27,102831.0,4,3.0,Excellent,213.0,7,9.0,0
+56,Female,IT,Bachelor,34,110973.0,4,3.0,Excellent,171.0,1,2.0,0
+42,Male,IT,Bachelor,22,78083.0,3,5.0,Excellent,147.0,7,,0
+58,Male,Finance,Master,37,120545.0,4,4.0,Fair,193.0,7,,0
+26,Female,Sales,Bachelor,2,42304.0,4,,Excellent,162.0,4,11.0,0
+40,Male,HR,Bachelor,15,69545.0,3,4.0,Excellent,197.0,5,16.0,0
+35,Male,HR,Bachelor,13,68866.0,3,3.0,Good,162.0,5,3.0,0
+47,Male,HR,Master,24,95746.0,3,5.0,Poor,,1,41.0,0
+25,Female,Finance,Bachelor,6,44434.0,3,4.0,Fair,162.0,4,7.0,0
+46,Female,HR,High School,22,97757.0,1,3.0,Excellent,234.0,4,13.0,0
+46,Male,Operations,Bachelor,23,,3,4.0,Good,179.0,4,1.0,0
+39,Male,Finance,Master,17,88963.0,4,4.0,Good,209.0,4,2.0,0
+29,Male,HR,High School,6,40060.0,1,3.0,Fair,161.0,5,19.0,0
+35,Male,Finance,PhD,11,83228.0,3,4.0,Fair,142.0,2,42.0,0
+53,Female,HR,Bachelor,31,103108.0,5,4.0,Good,117.0,4,5.0,1
+59,Male,IT,PhD,34,119828.0,4,1.0,Good,206.0,2,,1
+54,Male,Sales,PhD,30,124939.0,4,4.0,Excellent,176.0,7,6.0,0
+44,Female,Sales,Bachelor,23,83737.0,3,3.0,Good,143.0,7,1.0,0
+36,Female,Operations,Bachelor,16,57001.0,4,3.0,Excellent,207.0,4,3.0,0
+54,Female,Finance,Bachelor,30,,3,3.0,Fair,203.0,3,17.0,0
+46,Male,Operations,Bachelor,24,82851.0,4,3.0,Poor,209.0,6,34.0,1
+38,Male,HR,Master,19,112241.0,2,4.0,Good,141.0,3,2.0,0
+54,Male,IT,Bachelor,34,103284.0,4,3.0,Fair,206.0,7,,0
+23,Male,Sales,Bachelor,0,20296.0,3,4.0,Fair,184.0,6,,0
+35,Female,Finance,Bachelor,10,61956.0,4,2.0,Excellent,210.0,3,2.0,1
+27,Female,HR,PhD,8,68935.0,4,5.0,Good,188.0,4,3.0,0
+27,Female,Operations,Bachelor,2,41793.0,3,4.0,Fair,179.0,2,11.0,0
+24,Female,Sales,High School,3,40543.0,3,4.0,Fair,206.0,6,1.0,0
+28,Male,HR,High School,9,47841.0,4,,Fair,196.0,5,7.0,0
+29,Female,Finance,PhD,6,53967.0,5,3.0,Excellent,,1,2.0,0
+36,Male,HR,Master,17,91068.0,4,2.0,Fair,162.0,6,4.0,0
+50,Male,HR,Bachelor,30,94692.0,2,5.0,Fair,170.0,6,3.0,0
+54,Male,Finance,Bachelor,35,121971.0,3,3.0,Good,131.0,5,26.0,1
+51,Male,Sales,Bachelor,29,109851.0,5,4.0,Fair,160.0,4,15.0,0
+48,Male,Finance,High School,26,93984.0,4,4.0,Fair,194.0,3,25.0,0
+57,Female,HR,PhD,34,132566.0,4,3.0,Fair,189.0,3,6.0,0
+50,Male,Operations,Master,31,109630.0,5,4.0,Fair,150.0,7,5.0,0
+59,Male,Finance,Bachelor,34,118701.0,5,4.0,Fair,207.0,2,6.0,0
+54,Male,IT,Master,29,88132.0,4,4.0,Poor,249.0,4,1.0,0
+58,Female,IT,Bachelor,34,120725.0,3,3.0,Excellent,152.0,5,16.0,0
+48,Female,Operations,Master,27,108455.0,3,3.0,Fair,169.0,4,6.0,0
+54,Female,HR,Master,34,123217.0,4,2.0,Excellent,159.0,4,5.0,0
+25,Male,Operations,Bachelor,4,41938.0,3,4.0,Excellent,172.0,3,11.0,0
+43,Female,Sales,Master,24,89011.0,3,,Good,181.0,5,7.0,0
+23,Male,HR,Bachelor,2,15696.0,3,3.0,Fair,157.0,1,48.0,0
+31,Female,Finance,Bachelor,7,51248.0,3,,Fair,168.0,6,6.0,0
+26,Female,Operations,High School,5,53032.0,4,1.0,Good,352.0,3,12.0,0
+31,Male,IT,Bachelor,8,36084.0,4,5.0,Good,186.0,5,5.0,0
+54,Male,Finance,Master,30,106580.0,3,,Good,211.0,2,56.0,0
+59,Male,HR,PhD,36,146018.0,3,5.0,Poor,174.0,6,8.0,0
+34,Male,Sales,Master,15,80371.0,5,4.0,Excellent,160.0,6,13.0,0
+52,Male,Finance,Master,28,133704.0,1,3.0,Poor,192.0,3,,0
+57,Female,Finance,Master,38,143605.0,4,3.0,Good,185.0,7,16.0,0
+45,Male,Operations,Bachelor,26,101683.0,5,4.0,Good,170.0,2,4.0,0
+36,Male,IT,Bachelor,15,,3,3.0,Poor,,3,8.0,0
+50,Male,Sales,High School,27,101698.0,4,2.0,Good,165.0,4,26.0,0
+29,Male,Sales,Master,10,76963.0,5,4.0,Excellent,161.0,7,,0
+26,Female,IT,PhD,3,56184.0,3,3.0,Excellent,127.0,5,7.0,0
+50,Male,IT,High School,27,96562.0,4,5.0,Excellent,166.0,2,22.0,0
+25,Female,Finance,Master,1,43630.0,3,4.0,Good,130.0,6,1.0,0
+33,Female,IT,Master,11,62184.0,3,4.0,Good,159.0,3,23.0,0
+23,Female,Operations,Bachelor,2,37151.0,4,4.0,Poor,189.0,6,12.0,0
+48,Female,Operations,Bachelor,29,104451.0,5,5.0,Good,137.0,2,9.0,0
+52,Male,HR,Bachelor,29,114339.0,4,4.0,Fair,170.0,6,27.0,0
+57,Female,Operations,High School,37,120984.0,3,,Good,176.0,3,23.0,0
+57,Male,Finance,Bachelor,35,122897.0,2,3.0,Fair,169.0,7,5.0,0
+47,Male,HR,High School,28,98723.0,4,5.0,Good,162.0,3,19.0,0
+48,Female,Sales,Bachelor,28,105118.0,2,4.0,Good,183.0,1,2.0,0
+26,Female,IT,High School,5,40499.0,4,3.0,Excellent,186.0,6,21.0,0
+41,Female,HR,Master,20,94587.0,4,1.0,Good,175.0,1,14.0,0
+32,Male,Operations,Bachelor,9,58325.0,4,4.0,Excellent,164.0,7,2.0,0
+31,Male,IT,Master,8,51466.0,4,1.0,Excellent,196.0,1,14.0,0
+59,Female,Operations,Bachelor,38,133819.0,3,5.0,Good,142.0,6,11.0,0
+27,Male,Finance,Bachelor,3,36168.0,3,5.0,Good,192.0,2,11.0,0
+29,Female,Sales,PhD,7,63741.0,3,2.0,Fair,185.0,4,5.0,0
+44,Female,Operations,High School,25,86819.0,4,4.0,Excellent,,7,4.0,0
+47,Male,HR,Bachelor,25,94885.0,4,2.0,Good,174.0,3,18.0,0
+33,Male,IT,Master,10,64963.0,4,4.0,Excellent,127.0,5,,0
+47,Male,Finance,High School,26,490111.0,4,3.0,Good,209.0,7,8.0,0
+34,Male,Sales,High School,11,60621.0,5,4.0,Excellent,195.0,1,15.0,0
+39,Female,HR,Bachelor,18,79868.0,3,3.0,Excellent,150.0,2,1.0,0
+46,Male,IT,High School,27,119710.0,2,2.0,Fair,193.0,6,11.0,0
+54,Female,IT,Bachelor,33,112817.0,3,3.0,Fair,179.0,2,11.0,0
+33,Male,Operations,Bachelor,10,49123.0,4,2.0,Good,160.0,2,14.0,0
+57,Female,HR,Master,32,103841.0,3,4.0,Good,204.0,6,,0
+25,Male,Sales,Master,3,37937.0,4,1.0,Fair,164.0,5,8.0,0
+26,Male,IT,Master,6,64882.0,4,3.0,Excellent,208.0,6,5.0,0
+58,Male,Operations,Master,37,138259.0,5,5.0,Good,188.0,5,20.0,0
+29,Female,Sales,Master,8,49200.0,5,,Excellent,198.0,6,2.0,0
+49,Female,Sales,Bachelor,24,109713.0,2,5.0,Excellent,189.0,1,285.0,0
+52,Female,Sales,Master,33,125114.0,3,5.0,Good,,5,13.0,0
+30,Male,Sales,Master,11,71182.0,4,2.0,Excellent,180.0,1,27.0,1
+50,Male,Finance,Master,31,135453.0,3,2.0,Good,156.0,7,7.0,1
+35,Male,Finance,Bachelor,15,81415.0,3,4.0,Excellent,176.0,5,5.0,0
+43,Male,IT,Bachelor,19,83749.0,4,5.0,Good,197.0,5,28.0,0
+32,Male,Finance,Bachelor,7,54133.0,3,5.0,Good,192.0,6,2.0,0
+44,Female,IT,Master,24,107382.0,4,1.0,Good,187.0,5,2.0,0
+22,Female,Operations,High School,0,28072.0,4,3.0,Good,122.0,1,5.0,0
+58,Female,Operations,Master,37,134794.0,2,2.0,Good,169.0,7,39.0,1
+42,Female,IT,Bachelor,20,84594.0,3,4.0,Good,167.0,6,,0
+47,Male,Operations,High School,22,83985.0,3,4.0,Fair,147.0,3,10.0,0
+57,Male,Finance,High School,33,104776.0,4,2.0,Excellent,197.0,7,15.0,1
+44,Male,IT,High School,21,80370.0,3,3.0,Good,124.0,7,7.0,0
+22,Female,Sales,Bachelor,2,27096.0,5,4.0,Good,195.0,1,18.0,0
+36,Male,IT,Bachelor,11,58014.0,3,4.0,Good,208.0,7,,0
+42,Male,Finance,PhD,17,78256.0,3,1.0,Excellent,169.0,3,22.0,0
+30,Male,Operations,Bachelor,6,47728.0,3,5.0,Excellent,173.0,2,4.0,0
+30,Male,Finance,High School,8,36949.0,3,4.0,Good,199.0,6,4.0,0
+31,Female,Operations,Master,6,51772.0,3,4.0,Fair,155.0,2,9.0,0
+47,Female,HR,Master,22,99032.0,4,4.0,Good,191.0,6,7.0,0
+56,Male,Finance,Master,34,131329.0,4,2.0,Good,,7,,0
+46,Female,Finance,High School,22,90378.0,2,2.0,Excellent,144.0,6,6.0,1
+47,Female,IT,Master,27,110057.0,2,4.0,Good,182.0,1,4.0,0
+32,Male,HR,Master,12,61045.0,4,2.0,Excellent,174.0,3,8.0,0
+59,Male,Finance,Bachelor,34,122844.0,4,4.0,Good,131.0,6,10.0,0
+23,Male,Sales,High School,1,372192.0,3,4.0,Excellent,210.0,3,2.0,1
+28,Male,Finance,Bachelor,3,46256.0,4,4.0,Poor,164.0,6,10.0,0
+39,Female,Sales,Bachelor,20,,3,3.0,Excellent,187.0,3,5.0,0
+48,Male,HR,Master,25,,4,3.0,Excellent,215.0,2,6.0,0
+55,Female,Finance,Bachelor,35,117698.0,3,4.0,Excellent,181.0,1,4.0,0
+48,Male,IT,PhD,29,115949.0,2,1.0,Poor,206.0,6,33.0,0
+38,Male,Sales,Bachelor,17,62158.0,5,,Fair,153.0,4,14.0,0
+45,Male,IT,Bachelor,22,,3,4.0,Good,210.0,3,4.0,0
+46,Male,Operations,High School,21,69405.0,4,3.0,Poor,154.0,3,13.0,1
+28,Male,Sales,Bachelor,4,47536.0,3,4.0,Poor,160.0,4,23.0,0
+27,Female,Operations,Master,7,66039.0,4,2.0,Fair,138.0,1,,0
+45,Male,Sales,Master,24,104429.0,5,3.0,Good,181.0,3,22.0,0
+54,Female,Operations,Bachelor,31,107235.0,1,5.0,Good,190.0,1,3.0,0
+50,Male,Operations,Bachelor,30,121487.0,4,5.0,Poor,194.0,3,21.0,1
+43,Male,IT,High School,21,81714.0,4,3.0,Fair,139.0,7,10.0,0
+47,Male,HR,Master,23,99267.0,4,5.0,Good,184.0,5,4.0,0
+49,Female,IT,High School,26,,4,3.0,Good,185.0,7,7.0,0
+42,Male,HR,Bachelor,20,77293.0,5,3.0,Fair,,3,54.0,0
+28,Male,Sales,Master,9,67547.0,1,3.0,Good,155.0,5,19.0,0
+38,Female,Sales,PhD,13,77432.0,3,5.0,Excellent,112.0,6,11.0,0
+41,Male,Sales,Bachelor,19,71895.0,5,2.0,Excellent,192.0,1,2.0,1
+41,Male,IT,Bachelor,18,80451.0,4,,Excellent,171.0,3,7.0,0
+43,Male,IT,Master,20,86019.0,1,4.0,Excellent,182.0,2,4.0,0
+49,Female,HR,Master,30,116067.0,4,4.0,Good,172.0,2,1.0,0
+28,Female,Operations,Bachelor,3,34769.0,4,3.0,Good,180.0,4,10.0,0
+22,Male,IT,PhD,0,49907.0,3,,Good,193.0,2,,1
+53,Male,HR,Master,31,112113.0,3,2.0,Good,128.0,5,14.0,0
+34,Female,IT,Bachelor,9,394068.0,4,4.0,Fair,203.0,2,4.0,0
+51,Female,Finance,Bachelor,29,95942.0,3,4.0,Good,170.0,2,11.0,0
+44,Male,Operations,Bachelor,24,96746.0,4,4.0,Good,215.0,2,35.0,0
+40,Female,Operations,Master,15,78875.0,4,,Poor,163.0,3,16.0,0
+53,Male,Operations,High School,29,109848.0,3,2.0,Excellent,157.0,4,15.0,0
